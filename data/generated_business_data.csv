@@ -1,0 +1,501 @@
+Business_Name,Address_City,Business_Category,Business_SubCategory,Approx_Foot_Traffic_Level,Example_Competitor_Names,Address_Area_Locality
+Bistro Plaza Bangalore,Bangalore,Coffee Shop,Bistro,Low,Cafe Coffee Day,City Center
+Wholesale Center Pune,Pune,Supermarket,Wholesale,High,D-Mart,Mall Area
+Wholesale World Mumbai,Mumbai,Supermarket,Wholesale,Low,Big Bazaar,Downtown
+Boutique Point Bangalore,Bangalore,Hotel,Boutique,Medium,Taj,City Center
+CrossFit Hub Hyderabad,Hyderabad,Gym,CrossFit,Very High,Anytime Fitness,Downtown
+Cafe Center Kolkata,Kolkata,Coffee Shop,Cafe,High,Cafe Coffee Day,City Center
+Beauty Salon Center Mumbai,Mumbai,Salon,Beauty Salon,Very High,Toni&Guy,Suburb
+Cafe World Ahmedabad,Ahmedabad,Coffee Shop,Cafe,High,Starbucks,Downtown
+Fitness Center Center Mumbai,Mumbai,Gym,Fitness Center,Very High,Gold's Gym,Mall Area
+Hair Salon Center Bangalore,Bangalore,Salon,Hair Salon,High,Lakme,Near Airport
+CrossFit World Kolkata,Kolkata,Gym,CrossFit,Very High,CultFit,Near Airport
+Yoga Studio Center Delhi,Delhi,Gym,Yoga Studio,Medium,Anytime Fitness,Downtown
+Fitness Center Hub Chennai,Chennai,Gym,Fitness Center,Very High,Gold's Gym,Suburb
+CrossFit Hub Bangalore,Bangalore,Gym,CrossFit,Low,CultFit,Mall Area
+Multispeciality Point Bangalore,Bangalore,Hospital,Multispeciality,High,Manipal,Downtown
+Casual Dining Center Kolkata,Kolkata,Restaurant,Casual Dining,Very High,McDonald's,City Center
+Spa World Pune,Pune,Salon,Spa,Medium,Naturals,Mall Area
+Used Books Center Chennai,Chennai,Bookstore,Used Books,Medium,Crossword,Downtown
+Wholesale World Ahmedabad,Ahmedabad,Supermarket,Wholesale,Low,Reliance Fresh,Mall Area
+Fitness Center Hub Pune,Pune,Gym,Fitness Center,Low,CultFit,Downtown
+Fast Food Plaza Ahmedabad,Ahmedabad,Restaurant,Fast Food,Medium,Dominos,City Center
+Bistro Center Pune,Pune,Coffee Shop,Bistro,Low,Cafe Coffee Day,Downtown
+Comics Plaza Ahmedabad,Ahmedabad,Bookstore,Comics,Medium,Landmark,Suburb
+Budget World Delhi,Delhi,Hotel,Budget,Low,Oberoi,Mall Area
+CrossFit Plaza Kolkata,Kolkata,Gym,CrossFit,High,Anytime Fitness,Near Airport
+Fine Dining Plaza Ahmedabad,Ahmedabad,Restaurant,Fine Dining,High,McDonald's,Mall Area
+Wholesale Hub Mumbai,Mumbai,Supermarket,Wholesale,Medium,Big Bazaar,Suburb
+Yoga Studio World Bangalore,Bangalore,Gym,Yoga Studio,Low,Anytime Fitness,Suburb
+Yoga Studio World Pune,Pune,Gym,Yoga Studio,Medium,CultFit,Suburb
+Multispeciality Hub Delhi,Delhi,Hospital,Multispeciality,Low,Apollo,Mall Area
+Dental World Bangalore,Bangalore,Hospital,Dental,Medium,Manipal,Suburb
+Luxury Point Chennai,Chennai,Hotel,Luxury,Medium,Marriott,Mall Area
+Budget World Delhi,Delhi,Hotel,Budget,Very High,Marriott,Near Airport
+Eye Care Plaza Hyderabad,Hyderabad,Hospital,Eye Care,High,Fortis,Suburb
+Eye Care World Hyderabad,Hyderabad,Hospital,Eye Care,Low,Manipal,Mall Area
+Cafe World Hyderabad,Hyderabad,Coffee Shop,Cafe,Medium,Cafe Coffee Day,Suburb
+Luxury Point Pune,Pune,Hotel,Luxury,High,Marriott,Near Airport
+Budget Center Delhi,Delhi,Hotel,Budget,High,Taj,Near Airport
+Beauty Salon Plaza Ahmedabad,Ahmedabad,Salon,Beauty Salon,Very High,Toni&Guy,Suburb
+Used Books Center Kolkata,Kolkata,Bookstore,Used Books,Medium,Crossword,Near Airport
+Yoga Studio Center Kolkata,Kolkata,Gym,Yoga Studio,Very High,Gold's Gym,Mall Area
+Yoga Studio World Bangalore,Bangalore,Gym,Yoga Studio,Low,Anytime Fitness,Suburb
+Hair Salon Point Ahmedabad,Ahmedabad,Salon,Hair Salon,Very High,Naturals,Suburb
+Comics Plaza Pune,Pune,Bookstore,Comics,High,Crossword,City Center
+Comics World Ahmedabad,Ahmedabad,Bookstore,Comics,Low,Crossword,Mall Area
+Coffee Bar Center Mumbai,Mumbai,Coffee Shop,Coffee Bar,Low,Cafe Coffee Day,City Center
+Bistro Point Hyderabad,Hyderabad,Coffee Shop,Bistro,Low,Barista,Downtown
+Fitness Center Plaza Bangalore,Bangalore,Gym,Fitness Center,Very High,CultFit,Downtown
+Luxury Center Delhi,Delhi,Hotel,Luxury,Medium,Taj,Near Airport
+Casual Dining Point Hyderabad,Hyderabad,Restaurant,Casual Dining,Very High,Pizza Hut,Mall Area
+Comics Plaza Delhi,Delhi,Bookstore,Comics,Medium,Crossword,Mall Area
+Spa Plaza Mumbai,Mumbai,Salon,Spa,Low,Lakme,City Center
+Wholesale Center Mumbai,Mumbai,Supermarket,Wholesale,Low,Big Bazaar,City Center
+Coffee Bar Hub Bangalore,Bangalore,Coffee Shop,Coffee Bar,High,Cafe Coffee Day,Mall Area
+Cafe Hub Hyderabad,Hyderabad,Coffee Shop,Cafe,Low,Starbucks,Near Airport
+CrossFit Point Mumbai,Mumbai,Gym,CrossFit,Very High,Gold's Gym,City Center
+Bistro Point Delhi,Delhi,Coffee Shop,Bistro,Low,Barista,City Center
+Yoga Studio Point Hyderabad,Hyderabad,Gym,Yoga Studio,High,Gold's Gym,Near Airport
+Hair Salon World Bangalore,Bangalore,Salon,Hair Salon,High,Toni&Guy,Downtown
+Fast Food Hub Hyderabad,Hyderabad,Restaurant,Fast Food,High,Pizza Hut,Downtown
+New Books World Hyderabad,Hyderabad,Bookstore,New Books,Low,Landmark,Downtown
+Spa Hub Kolkata,Kolkata,Salon,Spa,High,Toni&Guy,Near Airport
+Multispeciality World Pune,Pune,Hospital,Multispeciality,Low,Fortis,Near Airport
+Grocery Point Chennai,Chennai,Supermarket,Grocery,Low,D-Mart,Suburb
+Grocery Center Hyderabad,Hyderabad,Supermarket,Grocery,Low,Reliance Fresh,Downtown
+Bistro Hub Hyderabad,Hyderabad,Coffee Shop,Bistro,Very High,Starbucks,Mall Area
+Yoga Studio World Chennai,Chennai,Gym,Yoga Studio,Medium,Anytime Fitness,Downtown
+Hair Salon Hub Kolkata,Kolkata,Salon,Hair Salon,Low,Toni&Guy,Mall Area
+Luxury Center Mumbai,Mumbai,Hotel,Luxury,Medium,Marriott,Mall Area
+Yoga Studio Hub Pune,Pune,Gym,Yoga Studio,Medium,Anytime Fitness,Mall Area
+Wholesale World Mumbai,Mumbai,Supermarket,Wholesale,Very High,Reliance Fresh,Near Airport
+CrossFit World Delhi,Delhi,Gym,CrossFit,Low,Gold's Gym,City Center
+Beauty Salon Plaza Delhi,Delhi,Salon,Beauty Salon,Medium,Naturals,Downtown
+Luxury World Mumbai,Mumbai,Hotel,Luxury,Low,Marriott,Downtown
+Beauty Salon Center Mumbai,Mumbai,Salon,Beauty Salon,High,Naturals,Downtown
+Retail World Pune,Pune,Supermarket,Retail,Low,Big Bazaar,City Center
+Eye Care World Kolkata,Kolkata,Hospital,Eye Care,Low,Fortis,Downtown
+Coffee Bar Hub Chennai,Chennai,Coffee Shop,Coffee Bar,Very High,Cafe Coffee Day,Mall Area
+Spa Plaza Hyderabad,Hyderabad,Salon,Spa,Low,Toni&Guy,Suburb
+Dental Center Kolkata,Kolkata,Hospital,Dental,Very High,Apollo,Downtown
+Fitness Center Plaza Pune,Pune,Gym,Fitness Center,Very High,Anytime Fitness,City Center
+Grocery World Delhi,Delhi,Supermarket,Grocery,Low,Big Bazaar,Near Airport
+Budget Point Pune,Pune,Hotel,Budget,Very High,Oberoi,Suburb
+Yoga Studio Point Bangalore,Bangalore,Gym,Yoga Studio,Very High,Anytime Fitness,Suburb
+Fast Food World Kolkata,Kolkata,Restaurant,Fast Food,High,McDonald's,City Center
+Wholesale Hub Delhi,Delhi,Supermarket,Wholesale,Low,Big Bazaar,Near Airport
+Budget Center Kolkata,Kolkata,Hotel,Budget,Low,Taj,Mall Area
+CrossFit World Pune,Pune,Gym,CrossFit,Very High,Gold's Gym,Mall Area
+Luxury Center Hyderabad,Hyderabad,Hotel,Luxury,Medium,Marriott,Downtown
+Budget Point Ahmedabad,Ahmedabad,Hotel,Budget,Very High,Marriott,Suburb
+Fitness Center Center Ahmedabad,Ahmedabad,Gym,Fitness Center,Very High,Anytime Fitness,Downtown
+Retail Center Kolkata,Kolkata,Supermarket,Retail,Low,Reliance Fresh,City Center
+Beauty Salon Point Hyderabad,Hyderabad,Salon,Beauty Salon,Medium,Lakme,Downtown
+Yoga Studio World Pune,Pune,Gym,Yoga Studio,Very High,CultFit,City Center
+Fitness Center Center Kolkata,Kolkata,Gym,Fitness Center,Very High,CultFit,Near Airport
+Eye Care Plaza Delhi,Delhi,Hospital,Eye Care,High,Apollo,Suburb
+Fitness Center Hub Ahmedabad,Ahmedabad,Gym,Fitness Center,Low,Gold's Gym,Downtown
+Beauty Salon Point Delhi,Delhi,Salon,Beauty Salon,High,Toni&Guy,Mall Area
+Eye Care Hub Ahmedabad,Ahmedabad,Hospital,Eye Care,Low,Manipal,Suburb
+Fine Dining Plaza Mumbai,Mumbai,Restaurant,Fine Dining,Low,Pizza Hut,Suburb
+Multispeciality Hub Chennai,Chennai,Hospital,Multispeciality,Medium,Apollo,Mall Area
+Eye Care Plaza Kolkata,Kolkata,Hospital,Eye Care,Medium,Manipal,Mall Area
+Beauty Salon Hub Bangalore,Bangalore,Salon,Beauty Salon,Medium,Lakme,Suburb
+Wholesale Center Bangalore,Bangalore,Supermarket,Wholesale,High,Reliance Fresh,Mall Area
+Fast Food World Delhi,Delhi,Restaurant,Fast Food,High,McDonald's,City Center
+Fitness Center Hub Bangalore,Bangalore,Gym,Fitness Center,Low,CultFit,Mall Area
+Grocery Center Chennai,Chennai,Supermarket,Grocery,High,Big Bazaar,Near Airport
+New Books Hub Pune,Pune,Bookstore,New Books,Medium,Crossword,Downtown
+Hair Salon World Ahmedabad,Ahmedabad,Salon,Hair Salon,Medium,Toni&Guy,Mall Area
+Fine Dining Hub Ahmedabad,Ahmedabad,Restaurant,Fine Dining,Low,McDonald's,City Center
+Fine Dining Center Bangalore,Bangalore,Restaurant,Fine Dining,High,Dominos,City Center
+Budget Plaza Delhi,Delhi,Hotel,Budget,Low,Oberoi,Suburb
+Luxury Hub Mumbai,Mumbai,Hotel,Luxury,Very High,Oberoi,Near Airport
+Fine Dining Point Delhi,Delhi,Restaurant,Fine Dining,High,McDonald's,Suburb
+Budget Hub Ahmedabad,Ahmedabad,Hotel,Budget,High,Oberoi,Near Airport
+Comics Hub Delhi,Delhi,Bookstore,Comics,High,Landmark,City Center
+Luxury Hub Pune,Pune,Hotel,Luxury,Low,Taj,Downtown
+Coffee Bar Plaza Delhi,Delhi,Coffee Shop,Coffee Bar,Low,Starbucks,Near Airport
+Hair Salon Hub Ahmedabad,Ahmedabad,Salon,Hair Salon,Medium,Lakme,City Center
+Boutique Point Bangalore,Bangalore,Hotel,Boutique,High,Oberoi,Suburb
+Retail Center Ahmedabad,Ahmedabad,Supermarket,Retail,High,Reliance Fresh,Mall Area
+Hair Salon Point Chennai,Chennai,Salon,Hair Salon,Very High,Naturals,Downtown
+Cafe Hub Mumbai,Mumbai,Coffee Shop,Cafe,Medium,Starbucks,Near Airport
+New Books Plaza Chennai,Chennai,Bookstore,New Books,Medium,Sapna Book House,City Center
+Spa Hub Mumbai,Mumbai,Salon,Spa,High,Lakme,Near Airport
+Grocery World Bangalore,Bangalore,Supermarket,Grocery,Medium,Reliance Fresh,City Center
+Boutique Hub Ahmedabad,Ahmedabad,Hotel,Boutique,Very High,Marriott,Mall Area
+Cafe Hub Ahmedabad,Ahmedabad,Coffee Shop,Cafe,Very High,Barista,Near Airport
+CrossFit Plaza Delhi,Delhi,Gym,CrossFit,Medium,Gold's Gym,Suburb
+Budget World Delhi,Delhi,Hotel,Budget,Very High,Oberoi,Downtown
+Boutique Hub Mumbai,Mumbai,Hotel,Boutique,Very High,Oberoi,Near Airport
+Fast Food Point Chennai,Chennai,Restaurant,Fast Food,Low,Pizza Hut,Mall Area
+Casual Dining World Kolkata,Kolkata,Restaurant,Casual Dining,High,McDonald's,Near Airport
+Fast Food Plaza Delhi,Delhi,Restaurant,Fast Food,Medium,Pizza Hut,Mall Area
+Luxury Point Kolkata,Kolkata,Hotel,Luxury,High,Taj,Downtown
+Eye Care Plaza Pune,Pune,Hospital,Eye Care,Medium,Apollo,Downtown
+Grocery Point Delhi,Delhi,Supermarket,Grocery,Very High,D-Mart,Suburb
+Hair Salon World Pune,Pune,Salon,Hair Salon,Medium,Naturals,Downtown
+Multispeciality Center Hyderabad,Hyderabad,Hospital,Multispeciality,Low,Fortis,Mall Area
+Beauty Salon World Chennai,Chennai,Salon,Beauty Salon,Low,Naturals,Near Airport
+Luxury Center Chennai,Chennai,Hotel,Luxury,Low,Taj,Near Airport
+Budget World Mumbai,Mumbai,Hotel,Budget,Low,Taj,Downtown
+Hair Salon Point Kolkata,Kolkata,Salon,Hair Salon,Low,Naturals,Downtown
+Multispeciality World Ahmedabad,Ahmedabad,Hospital,Multispeciality,Low,Fortis,Near Airport
+Fine Dining Plaza Hyderabad,Hyderabad,Restaurant,Fine Dining,Low,McDonald's,Mall Area
+Retail Hub Ahmedabad,Ahmedabad,Supermarket,Retail,Medium,D-Mart,Downtown
+New Books Point Kolkata,Kolkata,Bookstore,New Books,Medium,Sapna Book House,Suburb
+Coffee Bar Point Kolkata,Kolkata,Coffee Shop,Coffee Bar,Very High,Cafe Coffee Day,City Center
+Comics Hub Hyderabad,Hyderabad,Bookstore,Comics,Very High,Crossword,City Center
+Eye Care Center Delhi,Delhi,Hospital,Eye Care,Medium,Apollo,Downtown
+Multispeciality Center Mumbai,Mumbai,Hospital,Multispeciality,High,Fortis,Near Airport
+Coffee Bar Center Ahmedabad,Ahmedabad,Coffee Shop,Coffee Bar,Medium,Starbucks,Downtown
+Comics Point Ahmedabad,Ahmedabad,Bookstore,Comics,Low,Sapna Book House,Near Airport
+Retail Plaza Pune,Pune,Supermarket,Retail,Very High,Reliance Fresh,City Center
+Fitness Center Center Kolkata,Kolkata,Gym,Fitness Center,Very High,Anytime Fitness,Suburb
+Beauty Salon Point Ahmedabad,Ahmedabad,Salon,Beauty Salon,Low,Naturals,Downtown
+Casual Dining Plaza Chennai,Chennai,Restaurant,Casual Dining,Medium,Pizza Hut,City Center
+New Books Plaza Ahmedabad,Ahmedabad,Bookstore,New Books,Very High,Crossword,City Center
+Fitness Center Plaza Kolkata,Kolkata,Gym,Fitness Center,Medium,Gold's Gym,City Center
+Fine Dining Hub Ahmedabad,Ahmedabad,Restaurant,Fine Dining,Low,Dominos,Suburb
+Spa World Pune,Pune,Salon,Spa,Low,Naturals,Near Airport
+Wholesale Plaza Hyderabad,Hyderabad,Supermarket,Wholesale,Very High,Reliance Fresh,Downtown
+Boutique World Pune,Pune,Hotel,Boutique,Very High,Taj,Mall Area
+Luxury Hub Ahmedabad,Ahmedabad,Hotel,Luxury,Very High,Marriott,Suburb
+Eye Care Center Ahmedabad,Ahmedabad,Hospital,Eye Care,High,Apollo,Near Airport
+Budget World Hyderabad,Hyderabad,Hotel,Budget,Low,Taj,Mall Area
+Wholesale World Delhi,Delhi,Supermarket,Wholesale,Low,D-Mart,Mall Area
+Comics World Bangalore,Bangalore,Bookstore,Comics,Low,Sapna Book House,Mall Area
+Coffee Bar Plaza Pune,Pune,Coffee Shop,Coffee Bar,Medium,Cafe Coffee Day,City Center
+New Books Hub Mumbai,Mumbai,Bookstore,New Books,Low,Crossword,City Center
+Beauty Salon Center Hyderabad,Hyderabad,Salon,Beauty Salon,Low,Toni&Guy,Suburb
+Retail Hub Delhi,Delhi,Supermarket,Retail,Medium,Reliance Fresh,Mall Area
+Wholesale Center Kolkata,Kolkata,Supermarket,Wholesale,Low,Big Bazaar,Downtown
+Eye Care Point Pune,Pune,Hospital,Eye Care,Very High,Apollo,Mall Area
+Hair Salon Center Ahmedabad,Ahmedabad,Salon,Hair Salon,Very High,Lakme,Downtown
+Fine Dining Hub Kolkata,Kolkata,Restaurant,Fine Dining,High,Pizza Hut,Downtown
+CrossFit Center Bangalore,Bangalore,Gym,CrossFit,Low,Gold's Gym,City Center
+Spa Center Chennai,Chennai,Salon,Spa,Low,Toni&Guy,Downtown
+Beauty Salon Point Pune,Pune,Salon,Beauty Salon,Very High,Lakme,Suburb
+Hair Salon Plaza Kolkata,Kolkata,Salon,Hair Salon,Low,Naturals,City Center
+Coffee Bar Point Mumbai,Mumbai,Coffee Shop,Coffee Bar,Low,Barista,Downtown
+New Books Point Pune,Pune,Bookstore,New Books,Medium,Landmark,Mall Area
+Beauty Salon Center Chennai,Chennai,Salon,Beauty Salon,Low,Lakme,Downtown
+Comics Point Chennai,Chennai,Bookstore,Comics,Medium,Landmark,Suburb
+Cafe Hub Hyderabad,Hyderabad,Coffee Shop,Cafe,High,Cafe Coffee Day,Mall Area
+CrossFit Plaza Chennai,Chennai,Gym,CrossFit,High,Anytime Fitness,Suburb
+Dental Point Bangalore,Bangalore,Hospital,Dental,Medium,Fortis,City Center
+Beauty Salon Point Ahmedabad,Ahmedabad,Salon,Beauty Salon,High,Toni&Guy,Suburb
+Wholesale Point Bangalore,Bangalore,Supermarket,Wholesale,High,Reliance Fresh,Mall Area
+New Books World Hyderabad,Hyderabad,Bookstore,New Books,Very High,Crossword,Downtown
+Luxury Hub Ahmedabad,Ahmedabad,Hotel,Luxury,High,Oberoi,City Center
+Spa Center Ahmedabad,Ahmedabad,Salon,Spa,Low,Toni&Guy,Near Airport
+Hair Salon World Ahmedabad,Ahmedabad,Salon,Hair Salon,Low,Naturals,City Center
+Cafe World Pune,Pune,Coffee Shop,Cafe,Very High,Barista,Near Airport
+Luxury Point Bangalore,Bangalore,Hotel,Luxury,Low,Marriott,Near Airport
+Retail Center Hyderabad,Hyderabad,Supermarket,Retail,Very High,Reliance Fresh,Downtown
+Cafe Hub Kolkata,Kolkata,Coffee Shop,Cafe,Very High,Barista,Suburb
+Cafe Point Pune,Pune,Coffee Shop,Cafe,Very High,Starbucks,Mall Area
+Cafe Point Mumbai,Mumbai,Coffee Shop,Cafe,Very High,Cafe Coffee Day,Near Airport
+Hair Salon Point Ahmedabad,Ahmedabad,Salon,Hair Salon,Low,Naturals,Suburb
+Wholesale Plaza Kolkata,Kolkata,Supermarket,Wholesale,Medium,Big Bazaar,Mall Area
+Grocery Hub Chennai,Chennai,Supermarket,Grocery,Low,D-Mart,City Center
+Hair Salon Center Delhi,Delhi,Salon,Hair Salon,High,Toni&Guy,Mall Area
+Boutique World Hyderabad,Hyderabad,Hotel,Boutique,Very High,Oberoi,Suburb
+Budget Plaza Chennai,Chennai,Hotel,Budget,High,Taj,Suburb
+Fine Dining World Pune,Pune,Restaurant,Fine Dining,Very High,Dominos,Near Airport
+Wholesale Point Mumbai,Mumbai,Supermarket,Wholesale,Medium,Big Bazaar,City Center
+Spa Hub Bangalore,Bangalore,Salon,Spa,Low,Naturals,Near Airport
+Casual Dining Hub Delhi,Delhi,Restaurant,Casual Dining,Low,McDonald's,Near Airport
+Eye Care Center Hyderabad,Hyderabad,Hospital,Eye Care,Very High,Manipal,Mall Area
+CrossFit Plaza Ahmedabad,Ahmedabad,Gym,CrossFit,Very High,Gold's Gym,Suburb
+Fine Dining Plaza Chennai,Chennai,Restaurant,Fine Dining,Medium,Pizza Hut,Suburb
+Used Books Center Hyderabad,Hyderabad,Bookstore,Used Books,Medium,Sapna Book House,Mall Area
+New Books Point Chennai,Chennai,Bookstore,New Books,High,Landmark,City Center
+Boutique World Ahmedabad,Ahmedabad,Hotel,Boutique,Medium,Oberoi,City Center
+Eye Care Center Hyderabad,Hyderabad,Hospital,Eye Care,High,Manipal,Downtown
+Bistro Point Ahmedabad,Ahmedabad,Coffee Shop,Bistro,Low,Starbucks,Downtown
+Coffee Bar Point Chennai,Chennai,Coffee Shop,Coffee Bar,High,Starbucks,Near Airport
+Boutique Plaza Hyderabad,Hyderabad,Hotel,Boutique,Medium,Taj,City Center
+Coffee Bar Center Chennai,Chennai,Coffee Shop,Coffee Bar,Very High,Barista,Near Airport
+New Books World Chennai,Chennai,Bookstore,New Books,Medium,Landmark,Suburb
+Comics Hub Ahmedabad,Ahmedabad,Bookstore,Comics,Medium,Crossword,Near Airport
+New Books Plaza Ahmedabad,Ahmedabad,Bookstore,New Books,High,Crossword,Mall Area
+Retail Center Pune,Pune,Supermarket,Retail,Low,Big Bazaar,Mall Area
+Luxury Hub Pune,Pune,Hotel,Luxury,Medium,Taj,Suburb
+Dental Center Hyderabad,Hyderabad,Hospital,Dental,Very High,Fortis,Suburb
+Fast Food Point Delhi,Delhi,Restaurant,Fast Food,Low,McDonald's,Near Airport
+CrossFit World Hyderabad,Hyderabad,Gym,CrossFit,High,CultFit,Suburb
+Coffee Bar Point Ahmedabad,Ahmedabad,Coffee Shop,Coffee Bar,Very High,Cafe Coffee Day,Downtown
+New Books Center Hyderabad,Hyderabad,Bookstore,New Books,Medium,Sapna Book House,Suburb
+CrossFit Plaza Bangalore,Bangalore,Gym,CrossFit,Low,Anytime Fitness,Near Airport
+Luxury Hub Mumbai,Mumbai,Hotel,Luxury,Medium,Taj,City Center
+Budget World Bangalore,Bangalore,Hotel,Budget,Very High,Taj,Mall Area
+CrossFit Hub Mumbai,Mumbai,Gym,CrossFit,Very High,CultFit,Suburb
+Retail Point Ahmedabad,Ahmedabad,Supermarket,Retail,High,Big Bazaar,Near Airport
+Spa Center Delhi,Delhi,Salon,Spa,Medium,Naturals,Mall Area
+Boutique World Mumbai,Mumbai,Hotel,Boutique,Medium,Taj,Mall Area
+Used Books Point Bangalore,Bangalore,Bookstore,Used Books,Medium,Crossword,City Center
+Dental Center Delhi,Delhi,Hospital,Dental,Medium,Fortis,Near Airport
+Fitness Center Center Ahmedabad,Ahmedabad,Gym,Fitness Center,Very High,Anytime Fitness,Near Airport
+Luxury Point Pune,Pune,Hotel,Luxury,High,Taj,City Center
+Cafe Plaza Chennai,Chennai,Coffee Shop,Cafe,High,Barista,Near Airport
+Cafe Center Bangalore,Bangalore,Coffee Shop,Cafe,Medium,Barista,City Center
+Dental Plaza Hyderabad,Hyderabad,Hospital,Dental,Medium,Apollo,City Center
+Grocery World Delhi,Delhi,Supermarket,Grocery,Very High,Reliance Fresh,City Center
+Fine Dining Hub Ahmedabad,Ahmedabad,Restaurant,Fine Dining,Medium,Pizza Hut,Downtown
+Dental Center Bangalore,Bangalore,Hospital,Dental,Medium,Fortis,Downtown
+Comics World Delhi,Delhi,Bookstore,Comics,High,Crossword,Mall Area
+Comics Point Ahmedabad,Ahmedabad,Bookstore,Comics,High,Landmark,Near Airport
+Boutique Point Chennai,Chennai,Hotel,Boutique,High,Taj,Mall Area
+Fine Dining World Hyderabad,Hyderabad,Restaurant,Fine Dining,High,McDonald's,Near Airport
+Comics World Delhi,Delhi,Bookstore,Comics,Very High,Sapna Book House,City Center
+Budget Plaza Mumbai,Mumbai,Hotel,Budget,Medium,Oberoi,City Center
+Multispeciality Center Pune,Pune,Hospital,Multispeciality,High,Manipal,Mall Area
+Bistro Point Bangalore,Bangalore,Coffee Shop,Bistro,Low,Starbucks,Mall Area
+Spa Center Kolkata,Kolkata,Salon,Spa,Very High,Lakme,Mall Area
+Casual Dining Plaza Hyderabad,Hyderabad,Restaurant,Casual Dining,Very High,Dominos,Downtown
+Fine Dining Center Bangalore,Bangalore,Restaurant,Fine Dining,Low,Dominos,Near Airport
+Grocery World Chennai,Chennai,Supermarket,Grocery,Very High,D-Mart,City Center
+Dental Point Mumbai,Mumbai,Hospital,Dental,Very High,Fortis,Mall Area
+Grocery Hub Pune,Pune,Supermarket,Grocery,Medium,Big Bazaar,Near Airport
+Eye Care Point Hyderabad,Hyderabad,Hospital,Eye Care,High,Fortis,Near Airport
+CrossFit Center Delhi,Delhi,Gym,CrossFit,Very High,CultFit,Mall Area
+Wholesale World Pune,Pune,Supermarket,Wholesale,High,D-Mart,City Center
+Budget Hub Chennai,Chennai,Hotel,Budget,High,Oberoi,Downtown
+Retail Center Ahmedabad,Ahmedabad,Supermarket,Retail,High,Big Bazaar,Mall Area
+CrossFit Center Kolkata,Kolkata,Gym,CrossFit,Low,CultFit,Near Airport
+Budget World Bangalore,Bangalore,Hotel,Budget,High,Taj,Mall Area
+Luxury Point Ahmedabad,Ahmedabad,Hotel,Luxury,High,Taj,City Center
+Fine Dining Plaza Bangalore,Bangalore,Restaurant,Fine Dining,Very High,McDonald's,Suburb
+Yoga Studio World Bangalore,Bangalore,Gym,Yoga Studio,Medium,CultFit,Suburb
+Retail Center Chennai,Chennai,Supermarket,Retail,Medium,Big Bazaar,Downtown
+Comics World Delhi,Delhi,Bookstore,Comics,High,Landmark,Near Airport
+Casual Dining Point Pune,Pune,Restaurant,Casual Dining,Low,Pizza Hut,City Center
+Fitness Center Point Delhi,Delhi,Gym,Fitness Center,Medium,Gold's Gym,Suburb
+Cafe Plaza Hyderabad,Hyderabad,Coffee Shop,Cafe,High,Cafe Coffee Day,Near Airport
+Hair Salon World Bangalore,Bangalore,Salon,Hair Salon,Low,Naturals,Downtown
+Beauty Salon Point Delhi,Delhi,Salon,Beauty Salon,Low,Toni&Guy,Near Airport
+CrossFit World Ahmedabad,Ahmedabad,Gym,CrossFit,Medium,CultFit,Near Airport
+Comics World Pune,Pune,Bookstore,Comics,High,Landmark,Mall Area
+Fast Food Center Hyderabad,Hyderabad,Restaurant,Fast Food,Very High,Pizza Hut,Suburb
+Retail Center Mumbai,Mumbai,Supermarket,Retail,Medium,Reliance Fresh,City Center
+Retail Hub Mumbai,Mumbai,Supermarket,Retail,High,Big Bazaar,Mall Area
+Bistro Plaza Pune,Pune,Coffee Shop,Bistro,Very High,Cafe Coffee Day,Downtown
+Eye Care Hub Mumbai,Mumbai,Hospital,Eye Care,Low,Manipal,Mall Area
+Comics Plaza Ahmedabad,Ahmedabad,Bookstore,Comics,Low,Landmark,Mall Area
+Fast Food Point Delhi,Delhi,Restaurant,Fast Food,Low,Dominos,Near Airport
+Fine Dining World Chennai,Chennai,Restaurant,Fine Dining,Very High,Pizza Hut,Near Airport
+Fitness Center Plaza Ahmedabad,Ahmedabad,Gym,Fitness Center,Very High,CultFit,Downtown
+Budget Point Delhi,Delhi,Hotel,Budget,High,Oberoi,Suburb
+Cafe Center Bangalore,Bangalore,Coffee Shop,Cafe,Medium,Cafe Coffee Day,Suburb
+Eye Care Plaza Chennai,Chennai,Hospital,Eye Care,Very High,Fortis,City Center
+Coffee Bar Center Delhi,Delhi,Coffee Shop,Coffee Bar,Very High,Cafe Coffee Day,Near Airport
+Grocery Center Kolkata,Kolkata,Supermarket,Grocery,Very High,Reliance Fresh,Mall Area
+Hair Salon Point Kolkata,Kolkata,Salon,Hair Salon,Very High,Lakme,Suburb
+Luxury Hub Pune,Pune,Hotel,Luxury,High,Marriott,Mall Area
+Fast Food Hub Pune,Pune,Restaurant,Fast Food,Low,McDonald's,Mall Area
+Cafe World Delhi,Delhi,Coffee Shop,Cafe,Low,Cafe Coffee Day,Downtown
+Yoga Studio World Delhi,Delhi,Gym,Yoga Studio,Low,Gold's Gym,Suburb
+Multispeciality Point Delhi,Delhi,Hospital,Multispeciality,High,Fortis,Near Airport
+Hair Salon Plaza Chennai,Chennai,Salon,Hair Salon,Low,Toni&Guy,Suburb
+Budget Plaza Delhi,Delhi,Hotel,Budget,Medium,Oberoi,City Center
+Comics Plaza Hyderabad,Hyderabad,Bookstore,Comics,High,Landmark,Downtown
+New Books Center Hyderabad,Hyderabad,Bookstore,New Books,Low,Crossword,Downtown
+Boutique Center Mumbai,Mumbai,Hotel,Boutique,Low,Taj,Near Airport
+Yoga Studio Point Mumbai,Mumbai,Gym,Yoga Studio,Very High,CultFit,Downtown
+Used Books Point Hyderabad,Hyderabad,Bookstore,Used Books,Medium,Crossword,Suburb
+Multispeciality Plaza Pune,Pune,Hospital,Multispeciality,Very High,Apollo,Mall Area
+Comics Point Mumbai,Mumbai,Bookstore,Comics,Very High,Crossword,Downtown
+New Books Hub Ahmedabad,Ahmedabad,Bookstore,New Books,Medium,Landmark,City Center
+Cafe Point Ahmedabad,Ahmedabad,Coffee Shop,Cafe,Very High,Starbucks,Near Airport
+Used Books Center Bangalore,Bangalore,Bookstore,Used Books,Very High,Crossword,Mall Area
+Boutique World Bangalore,Bangalore,Hotel,Boutique,Low,Oberoi,Near Airport
+Multispeciality Plaza Ahmedabad,Ahmedabad,Hospital,Multispeciality,Medium,Manipal,Downtown
+Casual Dining Center Pune,Pune,Restaurant,Casual Dining,Medium,Pizza Hut,City Center
+CrossFit Hub Chennai,Chennai,Gym,CrossFit,Medium,Gold's Gym,Near Airport
+Luxury Hub Kolkata,Kolkata,Hotel,Luxury,Very High,Oberoi,Downtown
+Wholesale World Kolkata,Kolkata,Supermarket,Wholesale,Very High,D-Mart,Mall Area
+Coffee Bar World Kolkata,Kolkata,Coffee Shop,Coffee Bar,Very High,Barista,City Center
+Casual Dining Hub Chennai,Chennai,Restaurant,Casual Dining,Medium,Pizza Hut,Downtown
+Hair Salon World Chennai,Chennai,Salon,Hair Salon,Low,Toni&Guy,Downtown
+Fitness Center Hub Delhi,Delhi,Gym,Fitness Center,High,Gold's Gym,Downtown
+Spa Point Ahmedabad,Ahmedabad,Salon,Spa,Low,Toni&Guy,Near Airport
+Fast Food Center Hyderabad,Hyderabad,Restaurant,Fast Food,Very High,McDonald's,City Center
+Coffee Bar Point Mumbai,Mumbai,Coffee Shop,Coffee Bar,Medium,Starbucks,Near Airport
+Retail Plaza Kolkata,Kolkata,Supermarket,Retail,High,D-Mart,Near Airport
+Retail Hub Chennai,Chennai,Supermarket,Retail,Very High,Reliance Fresh,Mall Area
+Fast Food Center Pune,Pune,Restaurant,Fast Food,Very High,Pizza Hut,Mall Area
+Hair Salon Center Pune,Pune,Salon,Hair Salon,Medium,Naturals,City Center
+Grocery Point Delhi,Delhi,Supermarket,Grocery,Medium,D-Mart,Suburb
+Wholesale Center Ahmedabad,Ahmedabad,Supermarket,Wholesale,High,D-Mart,Mall Area
+Hair Salon Center Pune,Pune,Salon,Hair Salon,Medium,Lakme,Mall Area
+Cafe Point Ahmedabad,Ahmedabad,Coffee Shop,Cafe,Low,Starbucks,City Center
+Spa Plaza Kolkata,Kolkata,Salon,Spa,Low,Lakme,Near Airport
+Cafe World Kolkata,Kolkata,Coffee Shop,Cafe,Very High,Cafe Coffee Day,Near Airport
+Luxury Plaza Kolkata,Kolkata,Hotel,Luxury,High,Oberoi,Suburb
+Spa Plaza Pune,Pune,Salon,Spa,Very High,Naturals,Suburb
+Hair Salon World Pune,Pune,Salon,Hair Salon,High,Toni&Guy,Downtown
+Boutique Hub Pune,Pune,Hotel,Boutique,Very High,Marriott,Near Airport
+Dental Hub Mumbai,Mumbai,Hospital,Dental,Low,Fortis,Near Airport
+Boutique Center Hyderabad,Hyderabad,Hotel,Boutique,Low,Oberoi,Suburb
+Used Books Plaza Delhi,Delhi,Bookstore,Used Books,High,Sapna Book House,Mall Area
+Used Books Plaza Kolkata,Kolkata,Bookstore,Used Books,Very High,Crossword,Suburb
+Fine Dining World Kolkata,Kolkata,Restaurant,Fine Dining,Low,Dominos,Mall Area
+Luxury Point Delhi,Delhi,Hotel,Luxury,Low,Taj,Mall Area
+Beauty Salon Plaza Kolkata,Kolkata,Salon,Beauty Salon,Low,Lakme,Suburb
+Luxury Plaza Pune,Pune,Hotel,Luxury,Low,Marriott,Suburb
+Dental Center Pune,Pune,Hospital,Dental,High,Manipal,Near Airport
+Fine Dining Plaza Ahmedabad,Ahmedabad,Restaurant,Fine Dining,High,Pizza Hut,Near Airport
+Luxury World Delhi,Delhi,Hotel,Luxury,High,Taj,Downtown
+Retail Center Ahmedabad,Ahmedabad,Supermarket,Retail,Very High,D-Mart,Mall Area
+Eye Care Point Pune,Pune,Hospital,Eye Care,High,Fortis,Suburb
+Casual Dining Point Delhi,Delhi,Restaurant,Casual Dining,Low,McDonald's,Downtown
+Luxury Plaza Hyderabad,Hyderabad,Hotel,Luxury,Very High,Marriott,Near Airport
+Casual Dining Center Bangalore,Bangalore,Restaurant,Casual Dining,Very High,Pizza Hut,Mall Area
+Grocery Center Chennai,Chennai,Supermarket,Grocery,Very High,D-Mart,Mall Area
+Budget World Pune,Pune,Hotel,Budget,Medium,Marriott,Suburb
+Grocery Point Mumbai,Mumbai,Supermarket,Grocery,Low,D-Mart,Near Airport
+Hair Salon Plaza Chennai,Chennai,Salon,Hair Salon,Low,Lakme,Mall Area
+Hair Salon Center Delhi,Delhi,Salon,Hair Salon,Very High,Toni&Guy,Near Airport
+Grocery World Bangalore,Bangalore,Supermarket,Grocery,High,D-Mart,City Center
+Cafe Center Delhi,Delhi,Coffee Shop,Cafe,Very High,Starbucks,City Center
+Used Books Plaza Pune,Pune,Bookstore,Used Books,Medium,Sapna Book House,Near Airport
+Budget World Ahmedabad,Ahmedabad,Hotel,Budget,High,Marriott,Suburb
+Wholesale Point Chennai,Chennai,Supermarket,Wholesale,Very High,Big Bazaar,Suburb
+Yoga Studio Hub Ahmedabad,Ahmedabad,Gym,Yoga Studio,Very High,Anytime Fitness,City Center
+CrossFit Center Delhi,Delhi,Gym,CrossFit,Very High,Anytime Fitness,Suburb
+Retail Center Chennai,Chennai,Supermarket,Retail,Very High,Big Bazaar,Downtown
+Boutique Plaza Chennai,Chennai,Hotel,Boutique,Medium,Oberoi,Near Airport
+Retail Center Delhi,Delhi,Supermarket,Retail,Medium,D-Mart,Suburb
+Bistro Plaza Pune,Pune,Coffee Shop,Bistro,Medium,Barista,Downtown
+Wholesale World Chennai,Chennai,Supermarket,Wholesale,Very High,Big Bazaar,Suburb
+Beauty Salon World Kolkata,Kolkata,Salon,Beauty Salon,Low,Naturals,Mall Area
+Wholesale Hub Bangalore,Bangalore,Supermarket,Wholesale,Low,Big Bazaar,Suburb
+Multispeciality Plaza Hyderabad,Hyderabad,Hospital,Multispeciality,Low,Manipal,Suburb
+Dental Center Bangalore,Bangalore,Hospital,Dental,Low,Fortis,Suburb
+Yoga Studio Point Delhi,Delhi,Gym,Yoga Studio,High,Gold's Gym,City Center
+Grocery World Delhi,Delhi,Supermarket,Grocery,Low,Reliance Fresh,Mall Area
+Cafe Point Hyderabad,Hyderabad,Coffee Shop,Cafe,Very High,Barista,Suburb
+Hair Salon World Pune,Pune,Salon,Hair Salon,Medium,Naturals,Suburb
+Cafe Hub Kolkata,Kolkata,Coffee Shop,Cafe,Very High,Barista,Near Airport
+Eye Care Plaza Pune,Pune,Hospital,Eye Care,High,Fortis,Suburb
+Fast Food Hub Delhi,Delhi,Restaurant,Fast Food,High,McDonald's,Suburb
+Fast Food World Kolkata,Kolkata,Restaurant,Fast Food,Low,McDonald's,Mall Area
+Dental World Chennai,Chennai,Hospital,Dental,High,Fortis,Near Airport
+Grocery Center Mumbai,Mumbai,Supermarket,Grocery,Medium,D-Mart,Downtown
+Luxury Center Bangalore,Bangalore,Hotel,Luxury,Medium,Oberoi,City Center
+Fine Dining Point Mumbai,Mumbai,Restaurant,Fine Dining,Very High,Pizza Hut,Downtown
+Eye Care Plaza Bangalore,Bangalore,Hospital,Eye Care,Low,Fortis,Mall Area
+New Books Hub Delhi,Delhi,Bookstore,New Books,High,Sapna Book House,City Center
+Fine Dining Hub Delhi,Delhi,Restaurant,Fine Dining,High,Dominos,Downtown
+Beauty Salon Plaza Pune,Pune,Salon,Beauty Salon,Low,Lakme,Suburb
+Yoga Studio Point Hyderabad,Hyderabad,Gym,Yoga Studio,Very High,CultFit,City Center
+Coffee Bar Point Delhi,Delhi,Coffee Shop,Coffee Bar,High,Barista,City Center
+Grocery World Mumbai,Mumbai,Supermarket,Grocery,High,Big Bazaar,Mall Area
+Dental World Mumbai,Mumbai,Hospital,Dental,Medium,Fortis,Downtown
+Beauty Salon Plaza Pune,Pune,Salon,Beauty Salon,Medium,Lakme,Suburb
+Fast Food Plaza Ahmedabad,Ahmedabad,Restaurant,Fast Food,High,Dominos,Mall Area
+Budget Hub Pune,Pune,Hotel,Budget,Very High,Oberoi,City Center
+Eye Care Center Kolkata,Kolkata,Hospital,Eye Care,Low,Fortis,City Center
+Casual Dining Point Kolkata,Kolkata,Restaurant,Casual Dining,Medium,Dominos,Suburb
+Hair Salon Center Delhi,Delhi,Salon,Hair Salon,Medium,Toni&Guy,Near Airport
+Multispeciality Hub Pune,Pune,Hospital,Multispeciality,High,Manipal,Suburb
+Eye Care Plaza Chennai,Chennai,Hospital,Eye Care,High,Manipal,Suburb
+Eye Care Hub Hyderabad,Hyderabad,Hospital,Eye Care,High,Fortis,Downtown
+Spa Center Chennai,Chennai,Salon,Spa,Very High,Toni&Guy,Mall Area
+Fine Dining Center Bangalore,Bangalore,Restaurant,Fine Dining,Low,McDonald's,City Center
+Spa Plaza Bangalore,Bangalore,Salon,Spa,Low,Naturals,Downtown
+Multispeciality Hub Kolkata,Kolkata,Hospital,Multispeciality,Medium,Manipal,Downtown
+Wholesale Hub Kolkata,Kolkata,Supermarket,Wholesale,Medium,Reliance Fresh,Suburb
+Boutique Point Pune,Pune,Hotel,Boutique,High,Marriott,City Center
+Budget Center Mumbai,Mumbai,Hotel,Budget,Very High,Marriott,City Center
+Budget Point Chennai,Chennai,Hotel,Budget,Medium,Marriott,Suburb
+Casual Dining Center Mumbai,Mumbai,Restaurant,Casual Dining,High,Dominos,Mall Area
+Multispeciality World Mumbai,Mumbai,Hospital,Multispeciality,Very High,Apollo,City Center
+Eye Care Hub Kolkata,Kolkata,Hospital,Eye Care,Low,Fortis,Mall Area
+Casual Dining World Delhi,Delhi,Restaurant,Casual Dining,High,Pizza Hut,Downtown
+Hair Salon Hub Mumbai,Mumbai,Salon,Hair Salon,High,Toni&Guy,Near Airport
+Eye Care Plaza Chennai,Chennai,Hospital,Eye Care,Medium,Manipal,Mall Area
+Budget Center Ahmedabad,Ahmedabad,Hotel,Budget,High,Marriott,Near Airport
+Dental Hub Ahmedabad,Ahmedabad,Hospital,Dental,Very High,Fortis,Suburb
+Bistro Plaza Ahmedabad,Ahmedabad,Coffee Shop,Bistro,Medium,Barista,Suburb
+Boutique Plaza Mumbai,Mumbai,Hotel,Boutique,Low,Taj,City Center
+Bistro Center Mumbai,Mumbai,Coffee Shop,Bistro,High,Barista,Suburb
+Casual Dining Plaza Hyderabad,Hyderabad,Restaurant,Casual Dining,Medium,Pizza Hut,Mall Area
+Beauty Salon Hub Bangalore,Bangalore,Salon,Beauty Salon,Low,Toni&Guy,Suburb
+Eye Care Point Delhi,Delhi,Hospital,Eye Care,Medium,Manipal,Suburb
+Eye Care Point Ahmedabad,Ahmedabad,Hospital,Eye Care,Very High,Fortis,Downtown
+Coffee Bar Center Hyderabad,Hyderabad,Coffee Shop,Coffee Bar,Low,Cafe Coffee Day,Downtown
+Dental Plaza Chennai,Chennai,Hospital,Dental,Medium,Manipal,Suburb
+Fine Dining Point Ahmedabad,Ahmedabad,Restaurant,Fine Dining,High,McDonald's,Mall Area
+CrossFit Plaza Bangalore,Bangalore,Gym,CrossFit,Very High,Gold's Gym,Near Airport
+Yoga Studio Plaza Ahmedabad,Ahmedabad,Gym,Yoga Studio,Very High,Gold's Gym,Downtown
+Eye Care Point Bangalore,Bangalore,Hospital,Eye Care,High,Fortis,Suburb
+Coffee Bar Plaza Bangalore,Bangalore,Coffee Shop,Coffee Bar,Low,Barista,Downtown
+Multispeciality Point Bangalore,Bangalore,Hospital,Multispeciality,Very High,Apollo,Downtown
+Budget Plaza Bangalore,Bangalore,Hotel,Budget,Very High,Marriott,Mall Area
+Grocery Center Kolkata,Kolkata,Supermarket,Grocery,Medium,Big Bazaar,Near Airport
+Dental Point Ahmedabad,Ahmedabad,Hospital,Dental,Medium,Manipal,City Center
+Retail World Hyderabad,Hyderabad,Supermarket,Retail,High,D-Mart,Downtown
+Bistro Center Mumbai,Mumbai,Coffee Shop,Bistro,Low,Cafe Coffee Day,Suburb
+Cafe Point Bangalore,Bangalore,Coffee Shop,Cafe,Medium,Starbucks,Near Airport
+Used Books Center Ahmedabad,Ahmedabad,Bookstore,Used Books,Very High,Landmark,Suburb
+Yoga Studio Hub Ahmedabad,Ahmedabad,Gym,Yoga Studio,Low,Gold's Gym,Near Airport
+Yoga Studio Plaza Chennai,Chennai,Gym,Yoga Studio,Low,Anytime Fitness,City Center
+Coffee Bar Point Pune,Pune,Coffee Shop,Coffee Bar,High,Starbucks,Downtown
+Multispeciality Point Ahmedabad,Ahmedabad,Hospital,Multispeciality,High,Manipal,Near Airport
+Fitness Center World Ahmedabad,Ahmedabad,Gym,Fitness Center,Low,CultFit,Near Airport
+Multispeciality World Mumbai,Mumbai,Hospital,Multispeciality,Very High,Manipal,City Center
+New Books Center Chennai,Chennai,Bookstore,New Books,Very High,Crossword,Near Airport
+Cafe Plaza Bangalore,Bangalore,Coffee Shop,Cafe,Medium,Barista,Suburb
+Used Books Point Hyderabad,Hyderabad,Bookstore,Used Books,Low,Landmark,Downtown
+Retail Hub Bangalore,Bangalore,Supermarket,Retail,High,D-Mart,Suburb
+Luxury Plaza Kolkata,Kolkata,Hotel,Luxury,High,Marriott,Suburb
+CrossFit Hub Delhi,Delhi,Gym,CrossFit,Medium,Anytime Fitness,Suburb
+Used Books Plaza Chennai,Chennai,Bookstore,Used Books,Low,Landmark,Near Airport
+Multispeciality Hub Delhi,Delhi,Hospital,Multispeciality,High,Manipal,City Center
+Cafe Point Ahmedabad,Ahmedabad,Coffee Shop,Cafe,High,Cafe Coffee Day,Suburb
+Spa Plaza Hyderabad,Hyderabad,Salon,Spa,Low,Naturals,Suburb
+CrossFit Center Ahmedabad,Ahmedabad,Gym,CrossFit,Very High,Anytime Fitness,Mall Area
+Budget Point Pune,Pune,Hotel,Budget,Very High,Marriott,Mall Area
+Used Books Plaza Kolkata,Kolkata,Bookstore,Used Books,High,Sapna Book House,Mall Area
+CrossFit World Bangalore,Bangalore,Gym,CrossFit,Medium,Anytime Fitness,Near Airport
+Comics World Ahmedabad,Ahmedabad,Bookstore,Comics,Very High,Landmark,Near Airport
+Budget Plaza Bangalore,Bangalore,Hotel,Budget,Medium,Marriott,City Center
+Used Books Center Delhi,Delhi,Bookstore,Used Books,High,Crossword,Mall Area
+Comics World Pune,Pune,Bookstore,Comics,Very High,Sapna Book House,Mall Area
+Hair Salon Hub Ahmedabad,Ahmedabad,Salon,Hair Salon,Medium,Toni&Guy,City Center
+Fine Dining World Ahmedabad,Ahmedabad,Restaurant,Fine Dining,Very High,Pizza Hut,Suburb
+New Books Plaza Bangalore,Bangalore,Bookstore,New Books,Very High,Crossword,City Center
+New Books Point Pune,Pune,Bookstore,New Books,High,Landmark,City Center
+Grocery World Kolkata,Kolkata,Supermarket,Grocery,Medium,Big Bazaar,Mall Area
+Casual Dining Plaza Bangalore,Bangalore,Restaurant,Casual Dining,Low,Dominos,Downtown
+Yoga Studio Plaza Kolkata,Kolkata,Gym,Yoga Studio,Very High,Gold's Gym,Downtown
+New Books Center Chennai,Chennai,Bookstore,New Books,Low,Crossword,City Center
+Wholesale Plaza Delhi,Delhi,Supermarket,Wholesale,Low,Big Bazaar,Near Airport
+Casual Dining World Delhi,Delhi,Restaurant,Casual Dining,Medium,Pizza Hut,Downtown
+Multispeciality Plaza Bangalore,Bangalore,Hospital,Multispeciality,Low,Manipal,Suburb
+Multispeciality Center Pune,Pune,Hospital,Multispeciality,Low,Fortis,Mall Area
+Bistro Hub Ahmedabad,Ahmedabad,Coffee Shop,Bistro,Low,Cafe Coffee Day,Suburb
+Dental Center Ahmedabad,Ahmedabad,Hospital,Dental,Low,Fortis,Suburb
+CrossFit Point Hyderabad,Hyderabad,Gym,CrossFit,Very High,CultFit,Downtown
+New Books Point Mumbai,Mumbai,Bookstore,New Books,High,Sapna Book House,City Center
+Wholesale Hub Delhi,Delhi,Supermarket,Wholesale,Low,Big Bazaar,Downtown
+Eye Care Point Bangalore,Bangalore,Hospital,Eye Care,Medium,Apollo,Near Airport
+Multispeciality Plaza Mumbai,Mumbai,Hospital,Multispeciality,High,Fortis,Downtown
+Used Books Center Bangalore,Bangalore,Bookstore,Used Books,High,Crossword,Downtown
+CrossFit Center Hyderabad,Hyderabad,Gym,CrossFit,Very High,Gold's Gym,Downtown
+Bistro Center Chennai,Chennai,Coffee Shop,Bistro,Medium,Starbucks,City Center
+Coffee Bar Plaza Chennai,Chennai,Coffee Shop,Coffee Bar,Medium,Barista,Near Airport
+New Books Plaza Kolkata,Kolkata,Bookstore,New Books,Medium,Landmark,Near Airport
+Spa Plaza Kolkata,Kolkata,Salon,Spa,Low,Lakme,Near Airport
+Bistro World Kolkata,Kolkata,Coffee Shop,Bistro,High,Starbucks,Near Airport
+Wholesale Center Bangalore,Bangalore,Supermarket,Wholesale,Medium,D-Mart,Downtown
+Luxury Plaza Bangalore,Bangalore,Hotel,Luxury,Very High,Marriott,City Center
+Coffee Bar World Hyderabad,Hyderabad,Coffee Shop,Coffee Bar,Low,Barista,Mall Area
+Fast Food World Kolkata,Kolkata,Restaurant,Fast Food,Medium,McDonald's,Near Airport
+Budget World Hyderabad,Hyderabad,Hotel,Budget,Low,Oberoi,Near Airport
+Cafe Center Pune,Pune,Coffee Shop,Cafe,High,Cafe Coffee Day,City Center
+Retail Point Bangalore,Bangalore,Supermarket,Retail,Very High,D-Mart,Suburb

@@ -1,0 +1,475 @@
+City,Area,Foot Traffic,State,Population
+Bangalore,Tech Park,2030.0,,
+Bangalore,Downtown,2857.0,,
+Bangalore,City Center,2910.0,,
+Chennai,Shopping District,4187.0,,
+Chennai,City Center,4578.0,,
+Chennai,Near Airport,3491.0,,
+Mumbai,Shopping District,3351.0,,
+Mumbai,Downtown,3278.0,,
+Mumbai,Tech Park,3408.0,,
+Delhi,Shopping District,3912.0,,
+Delhi,Suburb,1855.0,,
+Delhi,Downtown,1536.0,,
+Hyderabad,Suburb,4194.0,,
+Hyderabad,Tech Park,1989.0,,
+Hyderabad,City Center,4455.0,,
+Pune,Suburb,4375.0,,
+Pune,Shopping District,3401.0,,
+Pune,City Center,2649.0,,
+Kolkata,Suburb,900.0,,
+Kolkata,Near Airport,4236.0,,
+Kolkata,City Center,1517.0,,
+Ahmedabad,Near Airport,4951.0,,
+Ahmedabad,Shopping District,3350.0,,
+Ahmedabad,Suburb,2281.0,,
+Laurieville,,,MI,362472.0
+Daytown,,,UT,45855.0
+Keithburgh,,,GU,732411.0
+Martinfurt,,,OR,583351.0
+New Sarah,,,MN,906875.0
+West Angela,,,PW,629813.0
+West Alexandraton,,,DC,516819.0
+West Nicholasview,,,DE,246888.0
+Amandaberg,,,IL,625567.0
+New Craig,,,CA,699561.0
+Karenville,,,NC,466885.0
+Lake Mary,,,NJ,598592.0
+Mclaughlinbury,,,PA,444326.0
+West Michael,,,VI,174693.0
+Morenoville,,,TN,309324.0
+Ellisfort,,,KS,120329.0
+East Amber,,,MP,465162.0
+Stephanieview,,,NC,865091.0
+South Wyattberg,,,NJ,326437.0
+North Tanya,,,ID,744238.0
+Theresaview,,,NH,420607.0
+Christinafort,,,PW,356093.0
+North Thomas,,,OH,26940.0
+West Jeffreyborough,,,MT,727197.0
+East Ivan,,,VI,367535.0
+Harrisonfort,,,MH,149553.0
+New Gregory,,,AR,488818.0
+East Craigtown,,,OK,406148.0
+Michaelshire,,,NC,749723.0
+South Anthonystad,,,OR,431776.0
+Navarrostad,,,NY,459038.0
+North John,,,MT,972990.0
+West Jeffreyberg,,,MT,970248.0
+East Leslie,,,NY,83180.0
+Lake Madison,,,CT,332887.0
+New Andrewberg,,,GA,870687.0
+South Brianchester,,,DE,859949.0
+Crawfordport,,,NJ,925883.0
+Olsonhaven,,,AS,929092.0
+Deborahchester,,,FM,484011.0
+East Ronnie,,,AS,289362.0
+North Janehaven,,,AL,484775.0
+Karenville,,,OH,86173.0
+West Sarah,,,SD,809270.0
+New Douglastown,,,WA,855140.0
+Carolineport,,,MA,57263.0
+Joshuatown,,,FL,452195.0
+Turnerfort,,,AR,333360.0
+Bryanhaven,,,LA,596930.0
+Monicamouth,,,VT,552198.0
+Lake Heatherside,,,DC,614496.0
+Port William,,,OK,553192.0
+New Joe,,,NV,714582.0
+Coryport,,,GA,701415.0
+Port Gregoryshire,,,OR,190826.0
+Ryanland,,,OR,114676.0
+Andrewland,,,MH,822020.0
+South Joyberg,,,NE,535453.0
+South Donald,,,OK,655292.0
+Lake Edward,,,AZ,770092.0
+Lake Theresamouth,,,NM,468598.0
+Penningtonmouth,,,NJ,252048.0
+Amandahaven,,,WY,344693.0
+Fullerborough,,,IN,43855.0
+Pamelahaven,,,MT,50667.0
+Port Julia,,,KY,509735.0
+Oneillshire,,,RI,137643.0
+Rebeccamouth,,,VA,498178.0
+North Jennifer,,,MS,657524.0
+Grahamside,,,DC,746090.0
+Lake Jessica,,,OR,448138.0
+West Nicholastown,,,MH,929642.0
+New Stephanieport,,,IA,348171.0
+East Bryanstad,,,DE,84633.0
+West Dominique,,,PR,502684.0
+Kempshire,,,AZ,814144.0
+Barnesfurt,,,PW,781858.0
+Ambermouth,,,IA,31341.0
+South Alexandriaton,,,PR,34122.0
+Gaymouth,,,WV,459852.0
+New Alexander,,,MD,614836.0
+North Wayne,,,AK,930238.0
+West Kimberly,,,MA,202036.0
+Bryanshire,,,DC,21170.0
+South Timothyside,,,MT,168025.0
+Lake Jon,,,AZ,321979.0
+East Thomas,,,PA,217227.0
+Lake Matthew,,,CA,651370.0
+New Daniel,,,FM,176348.0
+Port Jennifer,,,MI,328559.0
+New Justinberg,,,NE,904492.0
+Lake Kevinstad,,,UT,743418.0
+East Sonya,,,MI,882204.0
+Port David,,,ME,644851.0
+Donaldtown,,,FL,196282.0
+Port Bobland,,,NM,586991.0
+Boylestad,,,HI,886464.0
+Port Craigville,,,HI,208501.0
+West Jamesshire,,,KS,689976.0
+Derektown,,,TX,267523.0
+Leahland,,,HI,113182.0
+Cohenburgh,,,AK,164398.0
+East Shannon,,,KY,517587.0
+Keithview,,,MD,483058.0
+Loganview,,,KS,409748.0
+New Jenniferhaven,,,ME,296308.0
+Latoyafort,,,OR,338901.0
+East Dawnport,,,GA,757445.0
+West Luis,,,MO,233106.0
+Stephaniemouth,,,KS,102232.0
+Port Nicole,,,GA,642202.0
+Thompsonland,,,OR,276459.0
+South Colleenbury,,,AS,919334.0
+Lake Brenda,,,PA,761916.0
+Contrerasfurt,,,WA,591748.0
+Tannerburgh,,,SD,543261.0
+West Kelly,,,ID,341060.0
+Crystalton,,,CO,944732.0
+Newmanberg,,,NY,639266.0
+New Paul,,,SC,32762.0
+Hughesberg,,,IA,755450.0
+Leestad,,,SC,37080.0
+Pamelastad,,,NE,541489.0
+Morenoshire,,,AS,815558.0
+West John,,,AR,459021.0
+New Angela,,,TN,627711.0
+New Alexanderton,,,RI,466579.0
+Bookerhaven,,,MT,593650.0
+East Kelly,,,SD,121179.0
+Wrighttown,,,AS,330437.0
+Lake Andrew,,,UT,386171.0
+New Ericborough,,,PR,613105.0
+Kaylaland,,,IA,542938.0
+Karenborough,,,UT,428011.0
+Port Sheila,,,NE,76584.0
+Davidshire,,,MN,840115.0
+Port Joseph,,,GA,268262.0
+South Christianfort,,,AL,887863.0
+Paulborough,,,OH,246749.0
+Lindsaymouth,,,WY,425388.0
+East Jennifer,,,AK,41756.0
+Austinchester,,,IA,149719.0
+Amyberg,,,PA,413251.0
+North Josehaven,,,MO,493062.0
+Martinport,,,IN,41417.0
+Rothtown,,,TX,125222.0
+Samanthaview,,,UT,590452.0
+New William,,,OK,770781.0
+Sanchezstad,,,NE,671885.0
+Lake Ericstad,,,UT,537181.0
+Lindaside,,,MT,170203.0
+Kellychester,,,WA,421190.0
+Tylerstad,,,FM,505977.0
+Port Jason,,,VT,114568.0
+South Shawnmouth,,,CO,712843.0
+Lake Jillianport,,,PR,852720.0
+West Karen,,,PR,885968.0
+West Juan,,,TN,288354.0
+Jenningschester,,,OR,159553.0
+Oliverfort,,,HI,207940.0
+Ashleyfurt,,,AS,228854.0
+Lake Bobbyland,,,LA,994554.0
+New Stephanieborough,,,MN,452940.0
+Goodmanton,,,MI,990249.0
+Jameschester,,,MN,963088.0
+Heatherhaven,,,NV,454361.0
+Lake Brian,,,ND,283839.0
+South Johnshire,,,DE,723995.0
+South Veronicaborough,,,CO,124742.0
+Port Jeffrey,,,SC,232716.0
+West Sara,,,AR,54557.0
+Scottport,,,RI,207493.0
+North Davidfurt,,,HI,32061.0
+Hollystad,,,DC,326783.0
+North Kevinfort,,,LA,674362.0
+North Christinaport,,,CO,564784.0
+Carpentermouth,,,PA,319450.0
+Lake Allison,,,CA,483190.0
+North Juliemouth,,,OR,29211.0
+Susanton,,,HI,359350.0
+Floydbury,,,SC,238479.0
+North Christineberg,,,SC,220673.0
+South Ericberg,,,AZ,966556.0
+North Joshualand,,,AK,883354.0
+South Patricia,,,AZ,347644.0
+Gabriellafort,,,CT,693525.0
+Port Davidside,,,VI,587704.0
+Snowland,,,SD,156543.0
+West Bryantown,,,VT,337956.0
+New Timothy,,,TX,851470.0
+Jenniferhaven,,,DC,909247.0
+East Brendafort,,,NH,544618.0
+Port Kelseyshire,,,DC,960358.0
+Port Aimeefort,,,DC,242201.0
+North Mark,,,CA,794489.0
+Timothyfurt,,,AL,873345.0
+Anthonytown,,,UT,703040.0
+Longton,,,ME,153470.0
+Howardfurt,,,NM,942668.0
+Lake Kevinside,,,IN,374060.0
+East Brandon,,,AK,602637.0
+Taylorton,,,MP,858755.0
+West Christopher,,,WY,179708.0
+Port Sarah,,,TN,108341.0
+South Tony,,,AZ,740905.0
+Pughton,,,OH,624360.0
+Michelechester,,,AL,846950.0
+Josephville,,,WV,938266.0
+Hendersonside,,,NV,826009.0
+Hernandezmouth,,,FL,603312.0
+Deniseborough,,,PW,255973.0
+West Emily,,,NH,291142.0
+Huntberg,,,GU,865553.0
+Tiffanychester,,,SC,150449.0
+Lake Michaelborough,,,AS,16912.0
+East Lorihaven,,,MT,474511.0
+Brownside,,,DE,916407.0
+Cameronstad,,,CO,415525.0
+North Kelly,,,VT,741979.0
+Reedshire,,,RI,376944.0
+Wardfurt,,,AR,773235.0
+Tonyahaven,,,AS,687029.0
+Darrylbury,,,LA,513720.0
+South Emily,,,OR,312513.0
+Mccormickside,,,NC,631691.0
+Davilaberg,,,AL,688884.0
+Port Paul,,,MO,535486.0
+Lake Heatherland,,,MI,206946.0
+Holdenchester,,,KY,951405.0
+West Christy,,,AL,708834.0
+Amyfort,,,GA,83042.0
+Lake Anna,,,VA,766733.0
+New Nicole,,,CO,211009.0
+Bellfort,,,PA,592062.0
+Lake Alan,,,NV,946021.0
+Kelseymouth,,,IL,256696.0
+Victoriastad,,,VI,674561.0
+South Zacharyton,,,IL,261354.0
+New Kelly,,,NY,66034.0
+East Victorland,,,UT,656865.0
+Boonemouth,,,MH,747630.0
+Port Michelleburgh,,,MN,507015.0
+Gabriellestad,,,GU,458882.0
+North Julieside,,,IA,19007.0
+North Christystad,,,WY,442508.0
+West Taylor,,,MA,987006.0
+West Katherine,,,MD,680983.0
+East Joseph,,,AZ,423416.0
+Tiffanyberg,,,VA,113092.0
+West Gregton,,,MD,529519.0
+South Rebeccaberg,,,TX,386228.0
+Andrewburgh,,,SC,23370.0
+Ronaldborough,,,WV,141174.0
+Torresmouth,,,GA,238144.0
+West Rebecca,,,GU,184393.0
+West Veronica,,,MH,462139.0
+Wongtown,,,SD,230101.0
+Burgessville,,,DC,390409.0
+Pamelatown,,,DE,356420.0
+Michaelmouth,,,MN,571750.0
+Knightburgh,,,TX,726891.0
+Lake Carlos,,,NM,766283.0
+Lake Emilyton,,,MS,71011.0
+Pamelatown,,,ND,719551.0
+Tarafurt,,,MT,917121.0
+South Kimberlyberg,,,MS,317239.0
+Brewerborough,,,WA,495824.0
+East Tiffany,,,AZ,862763.0
+Hayesview,,,NM,928857.0
+South Shane,,,IN,978969.0
+Davidsonview,,,VT,353091.0
+Lake Johnland,,,CO,440786.0
+Petersstad,,,AZ,200366.0
+Mikeberg,,,MA,439516.0
+West Michaelborough,,,DE,384211.0
+North Jacob,,,IN,630307.0
+New Thomas,,,MD,57960.0
+North Barbara,,,AR,944593.0
+Robertsburgh,,,TN,70909.0
+North Taylor,,,NM,125805.0
+Hopkinsberg,,,NH,292900.0
+South Tammy,,,DC,95383.0
+Robertsport,,,SC,72163.0
+New Michael,,,IN,177598.0
+New Gabriel,,,NJ,294298.0
+West Robert,,,DE,672511.0
+South Lindsay,,,MN,170372.0
+East Joycetown,,,OR,430470.0
+Thomasberg,,,MT,950617.0
+Port Hunter,,,MN,343811.0
+Sotoside,,,TX,256331.0
+Michaelside,,,TN,737118.0
+Port Alejandroside,,,KY,631895.0
+East David,,,VA,876630.0
+Jessicamouth,,,WA,855888.0
+Port Alicia,,,OH,257260.0
+Michellemouth,,,TN,939216.0
+Jennifermouth,,,AZ,946369.0
+Lake Amyhaven,,,AS,353278.0
+Amandashire,,,AL,233974.0
+West Aaron,,,NY,402877.0
+South Robert,,,GU,869014.0
+Christopherhaven,,,AS,44494.0
+Port Matthewburgh,,,NV,915747.0
+Port Colleenfurt,,,WA,346524.0
+Makaylahaven,,,FM,696459.0
+Jacobsview,,,MH,796103.0
+Reyesfort,,,NE,530716.0
+North Timothy,,,NY,891474.0
+Lake Jessicaton,,,CT,986261.0
+Lake Alexisstad,,,PW,82264.0
+West Kimberlyville,,,WY,304301.0
+Bradleyshire,,,MH,971702.0
+Lake Tinahaven,,,AS,517499.0
+Charlesside,,,RI,788217.0
+Smithville,,,WY,172615.0
+New Shirley,,,UT,449427.0
+West Darryl,,,AL,697247.0
+North Timothyshire,,,FL,687785.0
+Lake Sandrastad,,,WY,794420.0
+North Kim,,,AR,652579.0
+Xavierfurt,,,PW,218218.0
+Melissaberg,,,MI,570392.0
+West Troyland,,,VT,469353.0
+Brandonberg,,,NY,806934.0
+Ramirezfort,,,CO,70464.0
+New Jasonberg,,,OH,724864.0
+West Jessicastad,,,MI,878464.0
+East Denisebury,,,VT,549555.0
+Clarkton,,,HI,992828.0
+Lake Jenniferport,,,KS,459507.0
+Jasonmouth,,,AR,160745.0
+Lake Jacob,,,NH,975046.0
+North Earl,,,WY,216792.0
+Salinastown,,,AR,155324.0
+Wellsport,,,CT,617926.0
+Thompsonview,,,IL,281660.0
+South Jorgestad,,,WA,936971.0
+Smithburgh,,,OR,216351.0
+Karenchester,,,WI,8069.0
+Charlesmouth,,,FM,407544.0
+Thompsonview,,,SC,542188.0
+Lake Eric,,,PA,78911.0
+Lake Dakotaville,,,NJ,520608.0
+Port Nathanborough,,,IL,390481.0
+Kathleenmouth,,,TN,605839.0
+Millerland,,,NC,558705.0
+South Kristin,,,RI,598953.0
+Warnerborough,,,NJ,790675.0
+South Marcus,,,NV,12083.0
+Bishopton,,,KY,839794.0
+Troymouth,,,AK,964897.0
+Alexmouth,,,LA,628576.0
+New Brendaport,,,OH,423181.0
+West Amanda,,,WV,973262.0
+Nealview,,,MA,85051.0
+West Gary,,,CT,455832.0
+South Melissaville,,,AR,410276.0
+New Josephview,,,HI,253539.0
+South Jennifer,,,PW,802356.0
+Lake Timothyport,,,NC,599694.0
+Thomaschester,,,CA,532601.0
+Robinsonton,,,WI,232928.0
+Johnsonside,,,NM,783934.0
+Port Bobby,,,HI,563785.0
+Tanyamouth,,,ND,85062.0
+South Deborah,,,ME,675620.0
+Chavezhaven,,,VA,60458.0
+Kelleyland,,,DE,832956.0
+Kennethton,,,OH,245157.0
+South Justin,,,TX,882198.0
+Mathiston,,,PA,390933.0
+Nealstad,,,CO,391725.0
+West Morganburgh,,,OR,388738.0
+South Allisonhaven,,,SC,974185.0
+Chandlerport,,,AS,882259.0
+Marciaside,,,VI,834584.0
+Kiaraburgh,,,FL,817123.0
+West Lorettaland,,,MP,16777.0
+East Robertfurt,,,SD,574520.0
+Anthonyton,,,GU,118997.0
+Lake Catherineshire,,,IA,566551.0
+Griffithbury,,,ID,540173.0
+Ashleeton,,,WY,757566.0
+East Justin,,,MA,478026.0
+Carlsonmouth,,,KY,903778.0
+Lake Brianna,,,DC,966574.0
+Port Elizabeth,,,CT,116206.0
+Gilbertburgh,,,PW,558622.0
+New Todd,,,FM,481360.0
+Port Robertland,,,NE,523616.0
+Port Michaelhaven,,,MT,991263.0
+Fieldsland,,,SD,256944.0
+East Stacey,,,NM,925221.0
+Brendaville,,,MP,897478.0
+South Marcburgh,,,NE,473992.0
+East Karen,,,NE,509706.0
+Loveton,,,CT,769150.0
+Moorehaven,,,GA,713290.0
+Port Timothyburgh,,,MO,820231.0
+South Kenneth,,,AR,546972.0
+East Josephbury,,,AZ,613807.0
+Theresabury,,,MH,92520.0
+Christinahaven,,,PW,394063.0
+North Kristinafurt,,,OK,901088.0
+Port Christopher,,,NH,609767.0
+Yuport,,,TN,755605.0
+Lake Taylorville,,,PA,434265.0
+Murphyborough,,,IA,353057.0
+Colemanland,,,FM,649727.0
+South Destinystad,,,CA,623697.0
+West Amandafort,,,MH,118423.0
+Johnbury,,,HI,845419.0
+Bowmanstad,,,ND,846055.0
+Port Sylviaview,,,DC,619517.0
+South Christopher,,,MS,959886.0
+North Marcus,,,GU,206803.0
+Stevenborough,,,NC,652670.0
+Christophermouth,,,WI,563428.0
+Lake Lauren,,,OH,116336.0
+Mitchellchester,,,AS,770814.0
+Melissaton,,,NC,200448.0
+Port Andrew,,,AL,268928.0
+Stephanieshire,,,IL,739589.0
+Monroebury,,,AR,248884.0
+North Adamborough,,,AR,497765.0
+East Nicoleview,,,VT,471299.0
+East Timothyville,,,NV,49702.0
+New Jeffery,,,VI,358781.0
+Waltersport,,,ID,646889.0
+New Tinaberg,,,MD,748620.0
+Obrienshire,,,AK,8422.0
+North Krystal,,,OH,947927.0
+Ryanmouth,,,KS,255502.0
+Elizabethhaven,,,AS,784322.0
+Sandovaltown,,,AR,735558.0
+South Tonyaton,,,NH,394597.0
+Dustinmouth,,,UT,320417.0
+Kingfurt,,,WA,754440.0
+Russellview,,,TN,673190.0
+Williamsmouth,,,VT,353408.0
+New Jesseland,,,MA,148049.0
+South Willie,,,MA,247752.0
+Turnertown,,,LA,790929.0
+Lake Stephanie,,,CT,62028.0
+Port William,,,VI,236594.0
+Wendymouth,,,PR,461633.0
+Walkerview,,,AL,846987.0
+Davisberg,,,SD,195652.0
+Ashleymouth,,,TN,255707.0

@@ -1,0 +1,461 @@
+Business,Eligible Loans,Loan_Provider,Loan_Type,Interest_Rate
+Coffee Shop,Axis Bank SME Loan; ICICI Bank MSME Loan; HDFC Business Growth Loan,,,
+Salon,HDFC Business Growth Loan; Axis Bank SME Loan; ICICI Bank MSME Loan,,,
+Gym,HDFC Business Growth Loan; SBI Mudra Loan; ICICI Bank MSME Loan,,,
+Bakery,SBI Mudra Loan; ICICI Bank MSME Loan; HDFC Business Growth Loan,,,
+Bookstore,SBI Mudra Loan; Canara Bank Startup Loan; Axis Bank SME Loan,,,
+Pet Grooming,HDFC Business Growth Loan; Axis Bank SME Loan; Canara Bank Startup Loan,,,
+Cloud Kitchen,HDFC Business Growth Loan; Canara Bank Startup Loan; ICICI Bank MSME Loan,,,
+Boutique,SBI Mudra Loan; HDFC Business Growth Loan; ICICI Bank MSME Loan,,,
+Electronics Repair,ICICI Bank MSME Loan; SBI Mudra Loan; Canara Bank Startup Loan,,,
+Dance Studio,SBI Mudra Loan; Canara Bank Startup Loan; Axis Bank SME Loan,,,
+,,"Kennedy, Arias and Hudson",Business Loan,9.43%
+,,"Carpenter, Chavez and Miller",Startup Loan,14.74%
+,,Walters-Mathews,Startup Loan,8.58%
+,,Wiggins and Sons,Equipment Financing,8.86%
+,,"Smith, Boyle and Gonzales",Business Loan,8.67%
+,,Floyd Inc,Commercial Loan,8.85%
+,,Williams-Whitehead,Startup Loan,8.63%
+,,"Chapman, Greene and Campbell",Equipment Financing,12.83%
+,,"Ingram, Johnson and Byrd",Startup Loan,8.20%
+,,Ramos Ltd,Startup Loan,6.89%
+,,Sherman Inc,Startup Loan,12.28%
+,,Rice PLC,Equipment Financing,5.55%
+,,Dennis LLC,Commercial Loan,13.48%
+,,"Martin, Nguyen and Walker",Equipment Financing,12.41%
+,,Long and Sons,Equipment Financing,9.67%
+,,"Henry, Sanders and Davis",Commercial Loan,9.14%
+,,"Crawford, Wilcox and Dickerson",Business Loan,6.69%
+,,"Collins, Johnson and Pineda",Startup Loan,9.50%
+,,Cannon-Cameron,Commercial Loan,5.47%
+,,"Reynolds, Collins and Jimenez",Startup Loan,7.91%
+,,Vargas-Snyder,Startup Loan,14.89%
+,,"Wolfe, Jones and Rose",Commercial Loan,12.79%
+,,James-Yang,Startup Loan,11.31%
+,,Kane PLC,Commercial Loan,13.48%
+,,Jimenez LLC,Business Loan,5.84%
+,,"Wagner, Boyd and Patterson",Equipment Financing,12.57%
+,,Carroll-Bailey,Equipment Financing,7.92%
+,,White-Weaver,Business Loan,14.76%
+,,Robinson Group,Business Loan,5.35%
+,,Ramirez Ltd,Commercial Loan,9.14%
+,,Myers-Johnson,Business Loan,9.68%
+,,"Richardson, Bryant and Collins",Equipment Financing,12.60%
+,,Gonzalez-Wilson,Startup Loan,7.04%
+,,Cummings Group,Business Loan,6.82%
+,,Brown Group,Startup Loan,14.16%
+,,Williams-Hernandez,Startup Loan,8.85%
+,,"Clark, Allen and Taylor",Commercial Loan,14.81%
+,,Ray and Sons,Business Loan,13.96%
+,,Davis PLC,Equipment Financing,12.89%
+,,Coleman-Brooks,Startup Loan,6.54%
+,,Hernandez LLC,Equipment Financing,12.46%
+,,Cooke-Mcpherson,Equipment Financing,7.95%
+,,Ibarra and Sons,Business Loan,13.63%
+,,Rogers-Phillips,Equipment Financing,13.63%
+,,Norton-Contreras,Commercial Loan,14.41%
+,,Burch-Ramos,Startup Loan,12.77%
+,,"Garcia, Hart and Arroyo",Business Loan,11.17%
+,,Buck-Collier,Commercial Loan,11.38%
+,,Yu Inc,Business Loan,12.23%
+,,"Norton, Hampton and Snow",Business Loan,5.72%
+,,Sullivan Inc,Equipment Financing,5.63%
+,,Gonzalez and Sons,Startup Loan,7.66%
+,,Nguyen-Stephens,Startup Loan,14.29%
+,,"Gonzales, Howard and Ortega",Equipment Financing,14.25%
+,,"Matthews, Pierce and Hicks",Commercial Loan,8.82%
+,,Henson-Soto,Equipment Financing,6.81%
+,,"Wyatt, Page and Jimenez",Commercial Loan,9.40%
+,,"Bell, Brown and Turner",Business Loan,13.15%
+,,Fowler-Benjamin,Startup Loan,8.98%
+,,"Cruz, White and Hernandez",Business Loan,8.51%
+,,"Campbell, Brown and Sanford",Business Loan,14.17%
+,,Parker Ltd,Commercial Loan,6.40%
+,,"Gibson, Moore and Ewing",Equipment Financing,12.27%
+,,Williams-Ayers,Equipment Financing,11.92%
+,,Hartman Ltd,Startup Loan,6.93%
+,,Brock PLC,Business Loan,14.84%
+,,"Watson, Gutierrez and Carr",Business Loan,6.55%
+,,Cooke LLC,Commercial Loan,6.32%
+,,Williams-Hanna,Commercial Loan,9.29%
+,,Stephenson-Alvarez,Equipment Financing,6.13%
+,,"Smith, Meyer and Hahn",Startup Loan,9.87%
+,,Phillips-Davies,Commercial Loan,13.64%
+,,Conley and Sons,Startup Loan,14.91%
+,,Johnson-Waters,Equipment Financing,7.59%
+,,Hughes and Sons,Equipment Financing,12.18%
+,,"Peterson, Tyler and Cox",Startup Loan,10.43%
+,,Smith LLC,Startup Loan,7.14%
+,,"Lewis, Ruiz and Taylor",Business Loan,9.96%
+,,"Hahn, Lewis and Bennett",Equipment Financing,5.56%
+,,Ferguson Ltd,Startup Loan,12.98%
+,,"Hart, Soto and Rodriguez",Equipment Financing,11.91%
+,,Matthews LLC,Business Loan,13.24%
+,,Ruiz Inc,Equipment Financing,9.30%
+,,"Ewing, Boyle and Watson",Business Loan,13.21%
+,,Andrews Group,Startup Loan,8.51%
+,,Schaefer PLC,Commercial Loan,14.62%
+,,"Frazier, Turner and Gallagher",Business Loan,7.22%
+,,Moss Ltd,Commercial Loan,9.39%
+,,"Miller, Alvarez and Small",Commercial Loan,7.07%
+,,Brooks-Ingram,Equipment Financing,10.09%
+,,"Vasquez, Vasquez and Cook",Equipment Financing,9.53%
+,,"Hunter, Jones and Vasquez",Business Loan,12.89%
+,,"Rogers, Armstrong and Mason",Startup Loan,14.43%
+,,Singleton PLC,Equipment Financing,5.45%
+,,Montgomery and Sons,Equipment Financing,7.85%
+,,"Todd, Scott and Hunt",Business Loan,11.49%
+,,Murphy LLC,Equipment Financing,11.41%
+,,Flowers and Sons,Business Loan,8.96%
+,,Flynn-Moreno,Commercial Loan,11.86%
+,,Dixon-Estrada,Business Loan,6.45%
+,,"Brennan, Duncan and Carlson",Equipment Financing,12.98%
+,,Dennis Ltd,Commercial Loan,5.04%
+,,Bowman-Curry,Commercial Loan,9.84%
+,,Rowe LLC,Commercial Loan,11.50%
+,,Shaffer Ltd,Business Loan,7.63%
+,,"Bolton, Marsh and Johnson",Business Loan,11.89%
+,,"Yoder, Riddle and Durham",Equipment Financing,8.06%
+,,"Harris, Nielsen and Gonzalez",Commercial Loan,5.73%
+,,Chambers-Noble,Business Loan,10.92%
+,,Burns-Shah,Startup Loan,14.54%
+,,Hebert PLC,Equipment Financing,7.37%
+,,"Barry, Jackson and Adams",Commercial Loan,5.72%
+,,Day-Smith,Business Loan,9.60%
+,,Sandoval and Sons,Startup Loan,9.10%
+,,Robinson Group,Startup Loan,13.19%
+,,"Burnett, Jordan and Jacobs",Equipment Financing,11.79%
+,,"Anthony, Mays and Jones",Business Loan,5.11%
+,,"Smith, Peck and Murphy",Business Loan,12.97%
+,,Lopez Inc,Business Loan,13.40%
+,,Washington-Rivera,Commercial Loan,5.29%
+,,Maddox and Sons,Startup Loan,13.07%
+,,Blackwell and Sons,Commercial Loan,10.96%
+,,Gonzales-Campbell,Equipment Financing,6.17%
+,,Adams and Sons,Business Loan,8.14%
+,,"Sullivan, Robertson and Kelly",Business Loan,11.11%
+,,Mcgee-Bennett,Business Loan,9.87%
+,,Paul-Green,Equipment Financing,9.53%
+,,"Mann, Lewis and Bruce",Startup Loan,13.34%
+,,Wyatt and Sons,Equipment Financing,9.74%
+,,Barton Inc,Equipment Financing,10.86%
+,,"Harmon, Cabrera and Mitchell",Equipment Financing,11.66%
+,,Brown-Larson,Business Loan,9.19%
+,,Parsons Ltd,Business Loan,6.28%
+,,"Watson, Clark and Marshall",Commercial Loan,10.82%
+,,Pennington-Henry,Business Loan,13.88%
+,,Roberts Group,Commercial Loan,10.30%
+,,"Hickman, Christensen and Leon",Commercial Loan,13.39%
+,,Henderson-Andersen,Startup Loan,10.02%
+,,Blanchard Group,Business Loan,5.26%
+,,Hughes-Rivera,Equipment Financing,6.55%
+,,"Martin, Vazquez and Smith",Commercial Loan,11.88%
+,,"Williams, Lopez and Graham",Equipment Financing,5.87%
+,,"Richard, Adkins and Flowers",Business Loan,9.12%
+,,Williams and Sons,Commercial Loan,10.67%
+,,Mcbride-Adams,Business Loan,11.20%
+,,Murphy-Scott,Commercial Loan,11.41%
+,,Key-Ramirez,Startup Loan,5.72%
+,,"Bishop, Schmitt and Kerr",Equipment Financing,5.21%
+,,Oneal-Ford,Startup Loan,8.16%
+,,Ramsey-Hatfield,Startup Loan,13.78%
+,,Williams PLC,Equipment Financing,14.78%
+,,Howard Inc,Equipment Financing,9.76%
+,,Cruz-Tucker,Commercial Loan,7.76%
+,,Mata-Huffman,Startup Loan,10.71%
+,,Edwards PLC,Business Loan,14.04%
+,,Boyd Group,Startup Loan,8.95%
+,,Williams-Franklin,Commercial Loan,13.43%
+,,Martinez PLC,Business Loan,10.72%
+,,Campbell-Branch,Commercial Loan,10.86%
+,,"Moore, Gray and Deleon",Business Loan,9.86%
+,,Jones PLC,Business Loan,13.86%
+,,Miller-Brown,Business Loan,9.35%
+,,Krause-Steele,Equipment Financing,6.56%
+,,Mckinney and Sons,Business Loan,10.28%
+,,"Estrada, Oneill and Mills",Startup Loan,13.01%
+,,"Hunt, Garcia and Dennis",Startup Loan,11.09%
+,,Benson-Brown,Startup Loan,13.25%
+,,Harris-Martinez,Business Loan,7.76%
+,,Meyers-Velasquez,Equipment Financing,12.70%
+,,Benjamin Inc,Commercial Loan,14.13%
+,,Meyers-Raymond,Startup Loan,10.78%
+,,Ramos-Banks,Equipment Financing,14.93%
+,,Williams PLC,Equipment Financing,9.66%
+,,"Shah, Howard and Wood",Equipment Financing,9.02%
+,,"Ochoa, Mcguire and White",Equipment Financing,8.85%
+,,"Flowers, Hogan and Smith",Business Loan,11.46%
+,,"Mendoza, Tran and Rojas",Startup Loan,10.57%
+,,Lewis-Brown,Startup Loan,6.91%
+,,"Woods, Velazquez and Flowers",Startup Loan,14.68%
+,,"Burns, Woods and Banks",Equipment Financing,12.94%
+,,"Wilson, Dominguez and Pruitt",Commercial Loan,11.33%
+,,"Snow, Le and Griffin",Commercial Loan,6.08%
+,,Martinez and Sons,Business Loan,5.63%
+,,Brooks-Mccarthy,Startup Loan,9.53%
+,,Wilson-White,Commercial Loan,6.46%
+,,Parsons-Wilson,Business Loan,12.63%
+,,Burke-Williams,Equipment Financing,7.58%
+,,Russell-Flores,Commercial Loan,9.90%
+,,Meza PLC,Commercial Loan,13.80%
+,,Garcia-Herrera,Startup Loan,14.23%
+,,Ortiz-Ryan,Commercial Loan,11.40%
+,,Rogers LLC,Business Loan,5.18%
+,,"Munoz, Martinez and Bates",Equipment Financing,5.64%
+,,Rhodes-Thomas,Business Loan,10.70%
+,,"Davis, Edwards and Stokes",Startup Loan,5.88%
+,,"Fry, Blevins and Keller",Equipment Financing,8.75%
+,,Sanchez-Patterson,Business Loan,8.20%
+,,Baker Group,Startup Loan,9.76%
+,,"Davis, Simmons and Barker",Equipment Financing,5.61%
+,,"Clark, Peterson and Franklin",Business Loan,7.36%
+,,"Huerta, Smith and Clark",Business Loan,7.70%
+,,"Simon, Chang and Moore",Commercial Loan,11.08%
+,,Schneider-Wilson,Business Loan,6.10%
+,,"Harris, Harris and Stevenson",Startup Loan,14.22%
+,,"Erickson, Smith and Stevens",Startup Loan,11.97%
+,,Diaz Inc,Business Loan,5.06%
+,,Cox-Harris,Startup Loan,7.00%
+,,Buchanan-Berger,Equipment Financing,9.91%
+,,Maxwell Group,Business Loan,7.95%
+,,Vincent and Sons,Equipment Financing,9.96%
+,,"Kramer, Gray and Levine",Commercial Loan,14.73%
+,,Townsend and Sons,Commercial Loan,13.28%
+,,"Graham, Williams and Coleman",Business Loan,7.11%
+,,Oconnor and Sons,Startup Loan,12.00%
+,,Baker-Cooley,Commercial Loan,8.41%
+,,Martin-Norton,Business Loan,13.07%
+,,Parrish Inc,Business Loan,7.45%
+,,"Stewart, Robinson and Wagner",Business Loan,8.16%
+,,Carroll-Wheeler,Equipment Financing,8.23%
+,,Walton PLC,Commercial Loan,6.36%
+,,"Long, Baker and Russell",Equipment Financing,5.67%
+,,"Miller, Collins and Miller",Equipment Financing,11.43%
+,,Shepard-Richardson,Equipment Financing,10.30%
+,,"Martinez, Garza and Mendoza",Business Loan,8.12%
+,,Lee-Gay,Startup Loan,9.43%
+,,"Martinez, Prince and Nunez",Equipment Financing,13.47%
+,,James-Martin,Equipment Financing,7.74%
+,,Morgan-Stokes,Commercial Loan,11.08%
+,,Hanna Inc,Equipment Financing,11.65%
+,,Hampton-Duke,Equipment Financing,9.41%
+,,Love Ltd,Commercial Loan,6.55%
+,,Williams Group,Business Loan,6.25%
+,,Morrison Ltd,Equipment Financing,8.21%
+,,Gonzalez-Price,Commercial Loan,5.20%
+,,"Howell, Jackson and Ortiz",Startup Loan,9.38%
+,,Edwards LLC,Startup Loan,5.04%
+,,Rush-Lloyd,Business Loan,12.56%
+,,Trujillo-Williams,Startup Loan,5.93%
+,,Martin-White,Equipment Financing,5.87%
+,,"Tapia, Griffin and Harris",Business Loan,14.16%
+,,James-Estrada,Equipment Financing,6.51%
+,,Rivera Group,Equipment Financing,14.43%
+,,Park Ltd,Commercial Loan,11.32%
+,,Dunn Group,Business Loan,6.13%
+,,"Goodman, Turner and Clarke",Business Loan,11.31%
+,,Watkins-Ferguson,Commercial Loan,13.31%
+,,Sanchez PLC,Equipment Financing,5.58%
+,,Hernandez and Sons,Business Loan,14.90%
+,,"Campbell, Bond and Freeman",Equipment Financing,11.68%
+,,Williams Group,Commercial Loan,8.50%
+,,"Flores, Scott and Patel",Commercial Loan,9.26%
+,,Barrera-Jones,Business Loan,11.01%
+,,"Taylor, Rodgers and Mathis",Business Loan,12.91%
+,,Shannon-Morales,Startup Loan,12.28%
+,,Lam-Green,Commercial Loan,12.01%
+,,Spencer and Sons,Startup Loan,6.80%
+,,"Davis, Nguyen and Briggs",Business Loan,7.76%
+,,Henderson-Sanchez,Equipment Financing,5.14%
+,,"Mcmahon, Riggs and Olson",Startup Loan,11.14%
+,,Duke LLC,Commercial Loan,14.49%
+,,"Crane, Hester and Doyle",Startup Loan,10.14%
+,,Carter-Walsh,Equipment Financing,7.29%
+,,Spence-Carrillo,Commercial Loan,14.55%
+,,Smith-Middleton,Business Loan,7.91%
+,,James-Pitts,Business Loan,5.45%
+,,Nunez and Sons,Startup Loan,13.29%
+,,Ruiz-Edwards,Startup Loan,10.34%
+,,Alvarado-Rosales,Commercial Loan,5.11%
+,,"Moss, Greene and Sullivan",Business Loan,9.30%
+,,Cabrera-Gross,Startup Loan,6.20%
+,,"Baker, Olson and Williams",Startup Loan,11.29%
+,,Lewis-Morris,Business Loan,12.13%
+,,Young-Sanders,Equipment Financing,9.33%
+,,Garrett LLC,Equipment Financing,12.55%
+,,"Lee, Brown and Cantu",Equipment Financing,9.45%
+,,"Johnson, Jackson and Taylor",Business Loan,7.29%
+,,Scott-Rangel,Business Loan,11.81%
+,,Gordon-York,Startup Loan,10.59%
+,,Fernandez LLC,Business Loan,11.50%
+,,Murray Group,Business Loan,14.00%
+,,"Young, Mendoza and Hernandez",Commercial Loan,13.56%
+,,"Moore, Yang and Good",Equipment Financing,7.17%
+,,Hale-Baker,Equipment Financing,8.77%
+,,"Moore, Ford and Rollins",Commercial Loan,9.00%
+,,"Larson, Park and Lewis",Business Loan,9.04%
+,,Kelly-Castro,Equipment Financing,13.02%
+,,Chapman Group,Commercial Loan,13.55%
+,,Buchanan Ltd,Business Loan,6.31%
+,,Adams LLC,Commercial Loan,14.15%
+,,Gentry-Flores,Equipment Financing,8.82%
+,,"Schneider, Molina and Martinez",Business Loan,9.22%
+,,"Smith, Freeman and Waller",Startup Loan,14.75%
+,,"Mitchell, Daniels and Johnson",Commercial Loan,6.93%
+,,Salas-Hicks,Commercial Loan,8.76%
+,,Smith Group,Commercial Loan,7.93%
+,,Thompson LLC,Startup Loan,8.70%
+,,Underwood-King,Business Loan,8.69%
+,,Reyes PLC,Commercial Loan,8.91%
+,,Jordan-Long,Commercial Loan,12.05%
+,,Barker Inc,Commercial Loan,5.42%
+,,Aguilar-Fox,Startup Loan,7.74%
+,,Blevins-Le,Startup Loan,12.93%
+,,Fowler PLC,Startup Loan,6.37%
+,,"Ortega, Marsh and Bradford",Equipment Financing,6.94%
+,,Holt Ltd,Commercial Loan,10.63%
+,,Hays Group,Equipment Financing,12.95%
+,,"Pope, Chung and Ingram",Commercial Loan,13.07%
+,,"Wood, Escobar and Joseph",Commercial Loan,6.34%
+,,Fry-Young,Commercial Loan,10.48%
+,,Luna-Clayton,Commercial Loan,11.11%
+,,"Macdonald, Peterson and Zimmerman",Business Loan,14.14%
+,,Howell Group,Business Loan,13.71%
+,,"Lester, Smith and Anderson",Commercial Loan,5.22%
+,,"Williams, Bullock and Scott",Commercial Loan,10.15%
+,,Pearson-Allen,Startup Loan,7.74%
+,,West LLC,Commercial Loan,10.33%
+,,Johnson Ltd,Startup Loan,5.57%
+,,"Smith, Walker and Cline",Startup Loan,12.01%
+,,Haley-Fleming,Business Loan,6.61%
+,,Bell Ltd,Business Loan,10.58%
+,,Hamilton Ltd,Equipment Financing,7.06%
+,,Douglas Ltd,Equipment Financing,13.12%
+,,Ford and Sons,Business Loan,14.85%
+,,Mccoy-Jackson,Startup Loan,8.11%
+,,"Noble, Smith and Reyes",Commercial Loan,6.91%
+,,Morris-Owens,Equipment Financing,8.25%
+,,"Fischer, Nicholson and Phillips",Business Loan,14.32%
+,,Mcdaniel Group,Business Loan,14.48%
+,,"Gutierrez, Warren and Maldonado",Startup Loan,14.15%
+,,Combs-Schultz,Startup Loan,10.17%
+,,Mccarthy-Howard,Commercial Loan,13.60%
+,,Bradshaw Ltd,Business Loan,10.40%
+,,Thomas Ltd,Equipment Financing,10.55%
+,,Edwards Group,Equipment Financing,12.26%
+,,Brown Inc,Startup Loan,12.72%
+,,Jones and Sons,Commercial Loan,9.17%
+,,"Roberts, Howell and Frederick",Startup Loan,5.92%
+,,Lewis LLC,Startup Loan,12.16%
+,,Walker LLC,Startup Loan,9.94%
+,,Smith-Blair,Commercial Loan,10.28%
+,,Torres-Dominguez,Commercial Loan,6.57%
+,,Powell-Marshall,Commercial Loan,11.73%
+,,Ford Ltd,Equipment Financing,6.16%
+,,"Nelson, Davis and Murphy",Startup Loan,6.59%
+,,"Richardson, Wilkins and Booth",Equipment Financing,5.05%
+,,Mcmillan and Sons,Startup Loan,6.68%
+,,Stokes-Ortega,Commercial Loan,12.36%
+,,Burke-Wallace,Commercial Loan,5.89%
+,,"Yang, Hill and Brooks",Business Loan,8.38%
+,,Long Group,Commercial Loan,8.86%
+,,Nunez Group,Commercial Loan,14.47%
+,,Rodriguez PLC,Commercial Loan,7.53%
+,,Morris-Johnson,Startup Loan,12.30%
+,,"Mckinney, Collins and Ford",Commercial Loan,10.52%
+,,"Robinson, Flynn and Hall",Business Loan,5.71%
+,,Smith-Kennedy,Business Loan,5.69%
+,,Ramirez-Williams,Startup Loan,10.70%
+,,"Sims, Henson and Gill",Equipment Financing,8.16%
+,,Hood-Smith,Startup Loan,14.85%
+,,"Jenkins, Peterson and Vega",Business Loan,13.70%
+,,"Mills, Green and Stewart",Commercial Loan,9.04%
+,,"Peters, Graham and Walker",Business Loan,7.00%
+,,Price-Smith,Equipment Financing,11.68%
+,,Mcbride Ltd,Commercial Loan,12.80%
+,,Boyle-Clay,Startup Loan,9.33%
+,,Sullivan Group,Equipment Financing,10.86%
+,,"Cook, Smith and Pruitt",Business Loan,14.95%
+,,Webb LLC,Business Loan,13.51%
+,,Smith-Sharp,Equipment Financing,7.53%
+,,"Sweeney, Best and Valenzuela",Equipment Financing,9.55%
+,,Myers-Woodward,Startup Loan,12.36%
+,,Weiss-Hess,Commercial Loan,10.19%
+,,"Vazquez, Lane and Lyons",Commercial Loan,5.09%
+,,Hayes PLC,Commercial Loan,13.18%
+,,Graham-Luna,Commercial Loan,11.23%
+,,Moreno Ltd,Commercial Loan,6.30%
+,,Hampton-Mckinney,Equipment Financing,6.42%
+,,"Knight, Martinez and Harvey",Business Loan,8.13%
+,,Floyd-Moore,Equipment Financing,9.73%
+,,"Burton, Patrick and Hernandez",Business Loan,14.05%
+,,Hebert LLC,Business Loan,10.22%
+,,Walker-Jones,Startup Loan,7.71%
+,,Avery Ltd,Business Loan,10.89%
+,,"Scott, Lee and Allison",Equipment Financing,13.07%
+,,Bailey-Bradley,Equipment Financing,13.82%
+,,Porter-Burns,Startup Loan,9.33%
+,,"Lane, Clark and Scott",Business Loan,9.15%
+,,Cox-Long,Business Loan,6.06%
+,,Mendoza Ltd,Business Loan,9.94%
+,,Adams and Sons,Business Loan,14.68%
+,,Henderson-Glover,Startup Loan,13.83%
+,,Williams Inc,Business Loan,6.11%
+,,"Walker, Gibson and Barton",Business Loan,8.91%
+,,Young and Sons,Business Loan,8.88%
+,,"Brown, Johnson and Garner",Startup Loan,11.82%
+,,"Thomas, Andrews and Suarez",Commercial Loan,11.34%
+,,"Benson, Torres and Briggs",Business Loan,9.67%
+,,Deleon-Clark,Business Loan,8.06%
+,,Gutierrez-Peterson,Equipment Financing,6.43%
+,,Gutierrez-Pearson,Equipment Financing,10.97%
+,,"Anderson, Kent and Long",Business Loan,8.91%
+,,Quinn-Lopez,Business Loan,11.93%
+,,Randolph-Thomas,Startup Loan,5.42%
+,,"Brown, Gonzalez and Newman",Business Loan,13.92%
+,,Taylor-Bell,Commercial Loan,6.98%
+,,Rogers-Nelson,Commercial Loan,8.47%
+,,Mcconnell-Weaver,Equipment Financing,10.62%
+,,"Ross, Barrett and Smith",Startup Loan,13.91%
+,,Poole Group,Startup Loan,7.07%
+,,"Morris, Graham and Lawson",Startup Loan,5.31%
+,,Kennedy PLC,Equipment Financing,13.77%
+,,"Bell, Kelly and Williams",Business Loan,11.43%
+,,Thomas-Munoz,Startup Loan,8.28%
+,,Lowery Group,Commercial Loan,11.46%
+,,Castillo-Gomez,Business Loan,6.99%
+,,Huynh Inc,Startup Loan,10.90%
+,,Richmond-Cooper,Equipment Financing,12.11%
+,,"Rivera, Hernandez and Gonzales",Equipment Financing,7.37%
+,,Sullivan-Hays,Startup Loan,9.68%
+,,"Franco, Weiss and Adams",Equipment Financing,10.34%
+,,Miller Ltd,Commercial Loan,13.58%
+,,Gaines and Sons,Startup Loan,11.86%
+,,Webb PLC,Startup Loan,10.56%
+,,Neal-Kaiser,Equipment Financing,8.30%
+,,Roberts-Ware,Equipment Financing,9.12%
+,,"Johnson, Sandoval and Hood",Business Loan,7.72%
+,,Owen PLC,Business Loan,5.32%
+,,"Anderson, Lloyd and Nelson",Equipment Financing,9.86%
+,,Mendoza Group,Equipment Financing,11.60%
+,,Simpson PLC,Business Loan,10.93%
+,,Harris LLC,Startup Loan,14.65%
+,,"Thompson, Roberson and Young",Startup Loan,13.32%
+,,"Ingram, Pena and Hernandez",Business Loan,10.09%
+,,Mcmahon Inc,Business Loan,10.77%
+,,Hart-Torres,Business Loan,12.10%
+,,Martin and Sons,Startup Loan,13.33%
+,,Lozano-Parker,Startup Loan,5.54%
+,,"Walsh, Parks and Baker",Startup Loan,10.08%
+,,Schneider-Goodman,Startup Loan,11.61%
+,,Montgomery-Wood,Commercial Loan,5.82%
+,,"Smith, Johnson and Brooks",Business Loan,5.49%
+,,Walker-Bowman,Business Loan,12.38%
+,,"Hughes, Burns and Dickerson",Startup Loan,10.44%
+,,"Mayer, Bailey and Jennings",Startup Loan,6.44%
+,,Hernandez-Ross,Equipment Financing,5.55%
+,,"Chavez, Barton and Williams",Business Loan,6.41%
+,,"Escobar, Hardy and Rivera",Commercial Loan,5.15%
+,,Thompson Ltd,Equipment Financing,10.71%
+,,Greene Inc,Business Loan,11.91%
+,,"Tucker, Peters and Mckinney",Startup Loan,10.25%

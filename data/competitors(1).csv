@@ -1,0 +1,481 @@
+Business,City,Competitor Names,Business_Name,Business_Type
+Coffee Shop,Pune,Cafe Coffee Day; Third Wave Coffee,,
+Coffee Shop,Bangalore,Barista; Starbucks,,
+Coffee Shop,Chennai,Starbucks; Barista,,
+Salon,Hyderabad,BBlunt; Green Trends,,
+Salon,Chennai,Naturals; Toni & Guy,,
+Salon,Ahmedabad,Naturals; Toni & Guy,,
+Gym,Chennai,Talwalkars; Anytime Fitness,,
+Gym,Mumbai,Anytime Fitness; Talwalkars,,
+Gym,Pune,Gold's Gym; CultFit,,
+Bakery,Kolkata,Bakingo; CakeZone,,
+Bakery,Chennai,Sweet Truth; Bakingo,,
+Bakery,Pune,Bakingo; CakeZone,,
+Bookstore,Chennai,Oxford Bookstore; Crossword,,
+Bookstore,Bangalore,Oxford Bookstore; Crossword,,
+Bookstore,Hyderabad,Sapna Book House; Oxford Bookstore,,
+Pet Grooming,Mumbai,Pawfect; Heads Up For Tails,,
+Pet Grooming,Pune,Heads Up For Tails; Petspace,,
+Pet Grooming,Delhi,Petspace; Heads Up For Tails,,
+Cloud Kitchen,Ahmedabad,Faasos; Eat.fit,,
+Cloud Kitchen,Delhi,Faasos; Eat.fit,,
+Cloud Kitchen,Kolkata,Box8; Eat.fit,,
+Boutique,Kolkata,Fabindia; Soch,,
+Boutique,Bangalore,Soch; Biba,,
+Boutique,Mumbai,Biba; Fabindia,,
+Electronics Repair,Mumbai,UrbanClap; OnsiteGo,,
+Electronics Repair,Kolkata,OnsiteGo; 1Assist,,
+Electronics Repair,Hyderabad,1Assist; UrbanClap,,
+Dance Studio,Pune,Nritya Shakti; Ashley Lobo,,
+Dance Studio,Ahmedabad,Nritya Shakti; Ashley Lobo,,
+Dance Studio,Delhi,Nritya Shakti; Shiamak Davar,,
+,Mumbai,,"Brown, Bailey and Hall",Bookstore Relate
+,Kolkata,,Banks-Munoz,Bookstore Then
+,Ahmedabad,,Wright-Brandt,Gym Plan
+,Hyderabad,,Allen PLC,Bookstore Human
+,Pune,,"Carroll, Clark and Jenkins",Cafe Country
+,Delhi,,"Love, Zamora and Farmer",Cafe Manager
+,Mumbai,,"Peterson, Whitaker and Medina",Florist Garden
+,Kolkata,,Baker Ltd,Florist Medical
+,Kolkata,,Moore-Oliver,Restaurant Other
+,Mumbai,,Warren-Rivera,Clothing Store Guy
+,Bangalore,,"Perez, Jackson and Peterson",Bookstore Charge
+,Ahmedabad,,Roberts Inc,Salon You
+,Kolkata,,Robinson-Collins,Restaurant Education
+,Ahmedabad,,"Moss, Rodriguez and Mccarthy",Bookstore Quality
+,Bangalore,,"Bailey, Hoffman and Dixon",Gym Practice
+,Mumbai,,Moyer PLC,Cafe Around
+,Bangalore,,"Harris, Anderson and Mitchell",Salon Between
+,Delhi,,"Walter, Boyer and Cooper",Bookstore She
+,Mumbai,,Jordan-Briggs,Restaurant Main
+,Chennai,,"Kelley, Morton and Parker",Salon Kid
+,Ahmedabad,,Alexander Group,Bakery Similar
+,Chennai,,Nelson Inc,Bakery Always
+,Ahmedabad,,"Brown, Boone and Nguyen",Cafe Majority
+,Chennai,,Brown PLC,Bookstore Degree
+,Hyderabad,,"Johnson, Woodard and Turner",Gym Commercial
+,Hyderabad,,"Patel, Thompson and Diaz",Bookstore Movie
+,Ahmedabad,,"Brown, Robinson and Johnson",Salon Loss
+,Bangalore,,Robertson-Colon,
+,Delhi,,"Webb, Jefferson and Manning",Salon Dinner
+,Mumbai,,Rosales-Coleman,Bookstore Blood
+,Ahmedabad,,Blevins Group,Bookstore Feeling
+,Ahmedabad,,Klein LLC,Cafe Lot
+,Chennai,,Taylor-Williams,Bakery Door
+,Delhi,,Ingram LLC,Cafe Song
+,Kolkata,,Armstrong Group,Bakery Discuss
+,Mumbai,,"White, Fowler and Brooks",Bookstore Personal
+,Chennai,,"Morris, Lopez and Duran",Gym Development
+,Mumbai,,Brewer-Thomas,Bookstore Parent
+,Delhi,,Allen-Davis,Bakery Finish
+,Pune,,Tucker PLC,Clothing Store Early
+,Ahmedabad,,"Duffy, Roberts and Olson",Restaurant Into
+,Delhi,,Foley-Hale,Bookstore Ready
+,Hyderabad,,Houston Ltd,Salon Situation
+,Ahmedabad,,Hoffman LLC,Cafe Front
+,Chennai,,Vazquez and Sons,Bookstore Democrat
+,Hyderabad,,Smith Ltd,Salon Lawyer
+,Mumbai,,Smith LLC,Gym Believe
+,Mumbai,,Griffith Inc,Gym Travel
+,Delhi,,Williams and Sons,Cafe Night
+,Mumbai,,Keller-Jones,Salon Old
+,Chennai,,Dickerson-Gentry,Gym Indeed
+,Chennai,,Reed-Gaines,Salon Important
+,Pune,,"Solis, Ballard and Cruz",Salon Something
+,Ahmedabad,,"Galvan, Carney and Beard",Salon Kid
+,Ahmedabad,,"Baker, Walker and Boyer",Clothing Store Likely
+,Delhi,,Burns-Long,Salon Simple
+,Hyderabad,,Ho-Johnston,Bakery Door
+,Chennai,,Diaz-Rodriguez,
+,Mumbai,,Arnold-Lewis,Florist Middle
+,Chennai,,Cole Group,Bakery Ready
+,Pune,,"Reyes, Morgan and Freeman",Bookstore Manage
+,Chennai,,Ramsey PLC,Florist Soldier
+,Kolkata,,Barton Ltd,Cafe Cultural
+,Bangalore,,Hansen-Schneider,Restaurant Know
+,Pune,,Collier-Lawrence,Bookstore Skin
+,Delhi,,Holmes Group,Gym Less
+,Chennai,,"Pratt, Pierce and Chase",Bookstore Husband
+,Chennai,,"Gonzales, Short and Marshall",Cafe Organization
+,Pune,,"White, Murphy and Norman",Salon Kid
+,Hyderabad,,"Webster, Watkins and Boyle",Cafe Better
+,Pune,,Robinson-King,Clothing Store Board
+,Pune,,"Burns, Howard and Wagner",Bookstore Sense
+,Delhi,,Bates-Strickland,Cafe Lot
+,Bangalore,,White Ltd,Bookstore Ready
+,Chennai,,Lewis-Irwin,Gym Decade
+,Pune,,"Jones, Wright and Carlson",Gym Culture
+,Chennai,,Owens-Perez,
+,Chennai,,Delgado-Jackson,Florist Be
+,Delhi,,Banks and Sons,Cafe New
+,Kolkata,,Fernandez-Allen,Salon Dinner
+,Mumbai,,"Turner, Andrews and Velazquez",Bakery Community
+,Chennai,,Salazar Group,Bakery Sound
+,Hyderabad,,Patterson-Oconnor,Florist With
+,Bangalore,,Rodriguez PLC,Florist State
+,Mumbai,,"Weaver, Willis and Becker",Salon Move
+,Bangalore,,Flowers Group,Cafe However
+,Hyderabad,,Perkins Inc,Clothing Store Network
+,Delhi,,"Lowe, Young and Phillips",Clothing Store Star
+,Mumbai,,"Kaufman, Garrett and Archer",Bakery Give
+,Hyderabad,,Barton Group,Salon Sign
+,Kolkata,,Parker Ltd,Bakery Difficult
+,Chennai,,Raymond-Schaefer,Gym Development
+,Chennai,,Wilson PLC,Florist Above
+,Kolkata,,"West, Campbell and Shah",Clothing Store Number
+,Pune,,"Gutierrez, Cervantes and Price",Gym Education
+,Hyderabad,,"Cox, Mcknight and Benson",Cafe Cup
+,Kolkata,,"Jones, Ramirez and Bray",Florist Trade
+,Mumbai,,"Brooks, Hobbs and Collins",Florist Focus
+,Delhi,,Blankenship Group,Gym Value
+,Ahmedabad,,"Smith, Chung and Torres",Clothing Store Development
+,Pune,,"Smith, Henderson and Jacobs",Bakery Clearly
+,Delhi,,Garcia-Lee,Bakery Where
+,Hyderabad,,Yates and Sons,Bookstore Social
+,Pune,,Hendricks-Boyer,Bakery Quickly
+,Delhi,,Hill and Sons,Cafe Since
+,Pune,,"Diaz, Miller and Ramirez",Restaurant Spring
+,Delhi,,Jackson-Delacruz,Cafe Machine
+,Hyderabad,,Thomas-Owen,Cafe Would
+,Mumbai,,"Bridges, Robles and Davis",Bookstore Choice
+,Delhi,,"Hernandez, Griffin and Bean",Salon Heart
+,Chennai,,Garrett and Sons,Gym Leg
+,Delhi,,Oconnor-Flynn,Salon Move
+,Chennai,,Mills-Christensen,Bookstore Skin
+,Kolkata,,Gordon-Cooper,Bookstore Hand
+,Mumbai,,Rivera and Sons,Gym Method
+,Chennai,,"Smith, Jackson and Mccarthy",Restaurant Image
+,Delhi,,Acosta-Flores,Bookstore Few
+,Ahmedabad,,Butler LLC,Salon Worry
+,Bangalore,,Garcia-Lane,Bakery Over
+,Kolkata,,Carlson Inc,Restaurant Reveal
+,Ahmedabad,,"Tran, Wilson and Schmidt",Cafe Machine
+,Bangalore,,Hicks-Davis,Bookstore Manage
+,Delhi,,Williams-Ware,Gym Education
+,Ahmedabad,,Ramos-Davis,Florist Garden
+,Pune,,Lin-Jackson,Clothing Store Member
+,Kolkata,,"Hahn, Byrd and Grant",Bookstore Feeling
+,Chennai,,"Robinson, Wright and Adams",Gym Look
+,Ahmedabad,,"Reilly, Martinez and Rich",Salon Between
+,Hyderabad,,Walker-Clark,Restaurant Produce
+,Bangalore,,"Mclean, Swanson and Griffin",Clothing Store Develop
+,Mumbai,,Smith PLC,Restaurant Exactly
+,Ahmedabad,,Marshall Ltd,Cafe Organization
+,Pune,,Williams-Garcia,Restaurant Magazine
+,Bangalore,,"Levine, Barton and Cruz",Cafe Within
+,Pune,,"Weaver, Stewart and Ward",Bookstore Few
+,Kolkata,,Collins-Adams,Cafe Challenge
+,Delhi,,"Thomas, Lopez and Harris",Clothing Store Story
+,Hyderabad,,Hodge-Moore,Bookstore Medical
+,Delhi,,"Cook, Graham and Gutierrez",Salon Chance
+,Pune,,"Graham, Rogers and Jackson",Bookstore Thus
+,Ahmedabad,,Stewart-King,Salon Financial
+,Hyderabad,,Strickland Group,Clothing Store Number
+,Mumbai,,"Lane, Rivera and James",Clothing Store Stage
+,Chennai,,Turner LLC,Clothing Store Not
+,Chennai,,Morrison PLC,Restaurant However
+,Delhi,,"Stewart, Stanley and Richmond",Clothing Store Edge
+,Delhi,,Sanchez Group,Restaurant Friend
+,Ahmedabad,,"Sellers, Johnson and Johnson",Salon Financial
+,Pune,,Velasquez LLC,Florist Financial
+,Chennai,,"Kaiser, Barnes and Wilson",Clothing Store Perhaps
+,Ahmedabad,,Morrow-Johnson,Florist Middle
+,Chennai,,"Livingston, Cooper and Brock",Clothing Store Number
+,Pune,,"White, Mullins and Nolan",Restaurant Through
+,Ahmedabad,,"Harrison, Kelly and Thompson",Cafe Challenge
+,Mumbai,,"Miller, Ortiz and Berger",Bookstore Hand
+,Ahmedabad,,Reid and Sons,Restaurant Pass
+,Delhi,,Schwartz-Daugherty,Florist Letter
+,Bangalore,,Stafford-English,Cafe Machine
+,Delhi,,Singh LLC,Salon Author
+,Hyderabad,,Mcpherson-House,Bookstore Girl
+,Pune,,Waters Ltd,
+,Bangalore,,Brennan-Johnson,Bakery Serve
+,Hyderabad,,Curtis Group,Salon With
+,Chennai,,Zuniga-Blair,Gym Value
+,Kolkata,,Bradley-Fuller,Gym Treat
+,Chennai,,"Villanueva, Boyd and Salinas",Bookstore Skin
+,Pune,,Brown and Sons,Bakery Chair
+,Hyderabad,,Johnson-Saunders,Gym Maybe
+,Mumbai,,Wilson LLC,Restaurant Pass
+,Delhi,,Abbott LLC,Clothing Store Trial
+,Ahmedabad,,"Mullins, Burton and Murphy",Salon Chance
+,Delhi,,Smith Group,Bakery It
+,Mumbai,,"Brooks, Wilson and Soto",Cafe Stock
+,Hyderabad,,Vaughn-Thomas,Clothing Store Clear
+,Bangalore,,Sparks Inc,Florist Beautiful
+,Mumbai,,Patterson-Gonzalez,Gym Season
+,Mumbai,,"Cox, Hamilton and Logan",Salon Through
+,Bangalore,,"Alexander, Smith and Gonzalez",Salon Move
+,Hyderabad,,"Mcneil, Stephens and Graves",Cafe Night
+,Hyderabad,,Rangel-Reed,Salon Stay
+,Delhi,,Powell-Rogers,Gym Direction
+,Chennai,,"Brown, King and Smith",Florist Others
+,Bangalore,,Flores LLC,Cafe Short
+,Delhi,,Garcia Inc,Bakery White
+,Ahmedabad,,Lewis-Davila,Bakery Example
+,Chennai,,Hunt PLC,Salon Between
+,Pune,,Thomas PLC,Bookstore Television
+,Kolkata,,"Farmer, Hernandez and Bonilla",Bakery Real
+,Ahmedabad,,Short-Snyder,Salon Old
+,Kolkata,,Wilson LLC,Gym Less
+,Ahmedabad,,Brady-Martinez,Gym Culture
+,Bangalore,,"Hanson, Ward and Delgado",Florist Focus
+,Pune,,"Mitchell, Haas and Flynn",Bakery Community
+,Mumbai,,Cain Group,Bakery Go
+,Mumbai,,Hahn-Gillespie,Bakery Seem
+,Ahmedabad,,"Leach, Miller and Gonzalez",Bakery Rich
+,Pune,,"Larson, Carson and Livingston",Florist Soldier
+,Pune,,Barnett and Sons,Gym Sing
+,Chennai,,Werner-Smith,Clothing Store Action
+,Kolkata,,"Porter, Perez and Graves",Bookstore Movie
+,Delhi,,Davis-Lucas,Clothing Store Situation
+,Chennai,,Johnson and Sons,Florist Night
+,Mumbai,,Castaneda-Mcclain,Clothing Store Service
+,Bangalore,,Silva-Perez,Cafe Show
+,Ahmedabad,,Cooper-Evans,Salon Move
+,Hyderabad,,Rodriguez-Douglas,Salon Listen
+,Hyderabad,,Murphy-Gonzalez,Restaurant Exactly
+,Mumbai,,"Rodriguez, Santiago and Hopkins",Salon Police
+,Ahmedabad,,Welch-Collier,Florist Main
+,Bangalore,,Horton-Elliott,Bakery Ready
+,Mumbai,,Thomas Group,Florist Control
+,Hyderabad,,Johnson Inc,Restaurant Save
+,Kolkata,,Richards-Wilson,Bakery Example
+,Ahmedabad,,"Anderson, Gallagher and Marquez",Clothing Store Back
+,Pune,,"Cook, Delgado and Welch",Cafe New
+,Bangalore,,Mejia-Schwartz,Bakery Recently
+,Pune,,"Mercer, Ward and Curtis",Clothing Store Serious
+,Bangalore,,Newman PLC,Cafe Cultural
+,Ahmedabad,,Park PLC,Salon Opportunity
+,Ahmedabad,,"Lee, Welch and Watson",Gym Thing
+,Kolkata,,"Sanders, Cohen and Wood",Bakery Similar
+,Mumbai,,Duncan Group,Bakery Contain
+,Chennai,,"Moss, Thomas and Bentley",Clothing Store Scene
+,Kolkata,,Wong-Williams,Restaurant Certain
+,Chennai,,Burns-Williams,Bookstore Girl
+,Ahmedabad,,Gould PLC,Salon Simple
+,Pune,,Cox and Sons,Florist Others
+,Kolkata,,"Gibson, White and Webb",Salon Pull
+,Bangalore,,Maynard-Anderson,Cafe High
+,Bangalore,,"Wheeler, Gonzalez and Jones",Florist Others
+,Mumbai,,"Brown, Brown and Li",Florist Board
+,Kolkata,,"Hill, Brown and Evans",Cafe Exist
+,Pune,,"Liu, Hudson and Clark",Restaurant Member
+,Delhi,,"Hernandez, Moore and Montgomery",
+,Chennai,,Smith-Young,Bakery Contain
+,Chennai,,Macias LLC,Bookstore Social
+,Pune,,Walters-Lee,Salon Police
+,Delhi,,King-Miller,Cafe Organization
+,Delhi,,Ortega-Moore,Bookstore Player
+,Mumbai,,"Harris, Smith and Stafford",Restaurant Produce
+,Hyderabad,,Davis Ltd,Clothing Store Not
+,Pune,,"Walter, Griffin and Blair",Florist Brother
+,Bangalore,,Gonzalez PLC,Restaurant Pass
+,Chennai,,"Wright, Larsen and Nolan",Clothing Store Program
+,Hyderabad,,"Lopez, Smith and Johnson",Bookstore Determine
+,Chennai,,Kennedy-Maldonado,Bookstore It
+,Pune,,Gutierrez PLC,Cafe Pick
+,Hyderabad,,Rivera Inc,Bookstore Then
+,Ahmedabad,,"Smith, Hinton and Owen",Restaurant Other
+,Ahmedabad,,Cunningham Ltd,
+,Chennai,,Johnston-Foster,Restaurant Education
+,Pune,,"Williams, Mason and Bender",Bakery Why
+,Bangalore,,Huffman-Gomez,Cafe Prove
+,Delhi,,Petersen-Jones,Bakery Actually
+,Mumbai,,Blake-Chapman,Restaurant Public
+,Chennai,,"Parrish, Stanton and Spears",Florist Painting
+,Ahmedabad,,"Kim, Morrow and Decker",Bakery Community
+,Delhi,,"Murphy, Turner and Maldonado",Cafe Practice
+,Kolkata,,"Campbell, Cook and Green",Cafe Front
+,Chennai,,"Reed, Medina and Barrera",Cafe Benefit
+,Pune,,Ochoa Ltd,
+,Mumbai,,King LLC,Cafe Better
+,Bangalore,,Mullins Group,Salon Collection
+,Mumbai,,Duncan-Rice,Gym Game
+,Pune,,Miller Ltd,Bakery Perhaps
+,Delhi,,Cantu Ltd,Bakery Sound
+,Hyderabad,,Johnson Inc,Bakery Newspaper
+,Ahmedabad,,Donovan-Tanner,Cafe Interesting
+,Mumbai,,"Perry, Sutton and Johnson",Gym Game
+,Pune,,Wilson-Jenkins,Salon Pull
+,Bangalore,,Lee-James,Gym Education
+,Mumbai,,Burke Group,Restaurant Boy
+,Chennai,,Ayers-Davis,Gym Look
+,Bangalore,,Peck-White,Bookstore Blood
+,Chennai,,Key-Taylor,Cafe Lot
+,Kolkata,,"Schmitt, Moody and Mendoza",Restaurant Education
+,Mumbai,,Flores Ltd,Bookstore Few
+,Hyderabad,,"Huffman, Cantrell and Turner",Bookstore Very
+,Bangalore,,Young PLC,Cafe Foreign
+,Chennai,,Garcia-Myers,Florist Medical
+,Pune,,Butler and Sons,Bakery Both
+,Hyderabad,,"Johnson, Johnson and Reyes",Clothing Store Guy
+,Ahmedabad,,Compton Inc,Bookstore Detail
+,Ahmedabad,,Farley-Camacho,Restaurant Produce
+,Kolkata,,Yates PLC,Gym Response
+,Bangalore,,"Walters, Lin and Wood",
+,Kolkata,,"Diaz, Collins and Espinoza",
+,Pune,,James-Johnson,Gym Maybe
+,Chennai,,"Matthews, White and Ward",Cafe State
+,Chennai,,Brown Ltd,Restaurant Example
+,Delhi,,Hanson-Carter,Cafe Short
+,Ahmedabad,,"Bright, Ramirez and Cline",Salon World
+,Mumbai,,"George, Watson and Gomez",Restaurant Standard
+,Chennai,,"Reed, Powell and Jimenez",Florist Parent
+,Delhi,,Moore-Johnson,Restaurant Someone
+,Kolkata,,"Pena, Johnson and Schwartz",Clothing Store Whether
+,Ahmedabad,,Dickerson-Morris,Cafe Environmental
+,Chennai,,Knight-Hunt,Bookstore Mrs
+,Hyderabad,,"Christensen, Oliver and Gilmore",Clothing Store Not
+,Bangalore,,Nash-Duncan,Restaurant Suddenly
+,Bangalore,,"Wells, Rowe and Thompson",
+,Pune,,Henderson-Johnson,Salon Sign
+,Ahmedabad,,Mcbride-Everett,Bookstore Degree
+,Ahmedabad,,Hartman Inc,Gym From
+,Chennai,,"Wood, Ali and Reyes",Cafe Better
+,Bangalore,,"Sullivan, Scott and Logan",Bookstore Movie
+,Bangalore,,"Mendoza, Cobb and Davis",Gym Mother
+,Pune,,Beck LLC,Salon Move
+,Bangalore,,Mitchell-Glass,Clothing Store Official
+,Kolkata,,Huynh LLC,Restaurant Through
+,Kolkata,,"Stewart, Jones and Scott",Gym From
+,Ahmedabad,,Ward-Stephens,Salon Real
+,Ahmedabad,,Huynh-Gray,Bakery Ready
+,Kolkata,,"Erickson, Osborn and Holloway",Salon Loss
+,Chennai,,Greene-Jordan,Gym Threat
+,Hyderabad,,"Garrett, Chandler and Johnson",Gym Yes
+,Delhi,,"Jones, Nielsen and Hoover",Florist Board
+,Delhi,,Wood Inc,Restaurant Save
+,Ahmedabad,,Brooks Ltd,Bookstore Tell
+,Ahmedabad,,"Smith, Hudson and Price",Cafe Environmental
+,Chennai,,Young-Wong,Bakery Simply
+,Pune,,"Davis, Cardenas and Jordan",
+,Chennai,,Martinez-Wright,Gym Game
+,Pune,,Mcguire-Valenzuela,Salon Author
+,Mumbai,,Glenn-Hopkins,Bookstore Month
+,Bangalore,,Nichols-Myers,Restaurant Cause
+,Kolkata,,"Rice, Rhodes and White",Clothing Store Son
+,Chennai,,"Curry, Mathews and Crane",Clothing Store Alone
+,Kolkata,,Gilmore-Johnson,Restaurant Magazine
+,Kolkata,,Mcbride Group,Florist Trade
+,Bangalore,,"Moss, Cox and Sharp",Gym Game
+,Delhi,,Dennis-Mayer,Cafe Continue
+,Bangalore,,Morton-Miller,Florist Above
+,Chennai,,Patrick-Moran,Clothing Store Power
+,Mumbai,,Allen-Wright,Bookstore Detail
+,Hyderabad,,Perez-Hayes,Cafe Interesting
+,Pune,,Franklin Ltd,Cafe Her
+,Bangalore,,Johnson-Reese,Bookstore Personal
+,Hyderabad,,Hansen LLC,Restaurant Standard
+,Mumbai,,Baker-Flores,Restaurant Risk
+,Delhi,,"Miller, Glass and Howard",Cafe Interesting
+,Delhi,,Johnson PLC,Bookstore Blood
+,Kolkata,,Brown-Harris,Cafe Song
+,Chennai,,Moore-Hess,Restaurant Reveal
+,Chennai,,"Baker, Swanson and Collier",Gym Thing
+,Delhi,,Gross PLC,Salon Wide
+,Chennai,,"Atkins, Johnson and Jacobs",Bookstore Arm
+,Hyderabad,,"King, Martin and Wright",Clothing Store Wide
+,Bangalore,,"Cain, Campbell and Terrell",Florist Several
+,Mumbai,,"Marsh, Rubio and Hampton",Gym Senior
+,Chennai,,Kim-Owens,Salon Decade
+,Pune,,Ruiz Inc,Salon Important
+,Bangalore,,Mann Group,Bakery Add
+,Bangalore,,"Cooper, Buckley and Murray",Restaurant Someone
+,Pune,,Casey and Sons,Clothing Store Power
+,Kolkata,,"Henderson, Hines and Nicholson",Bookstore Feeling
+,Ahmedabad,,Freeman-Lee,Gym Choice
+,Mumbai,,"Schroeder, Wallace and Sanchez",Bookstore Increase
+,Kolkata,,Hicks Group,Cafe Majority
+,Hyderabad,,Carter-Burton,Bookstore She
+,Pune,,"Jimenez, Pitts and Henderson",Florist State
+,Delhi,,"Jackson, Chavez and Patrick",Bookstore Sense
+,Kolkata,,"Cruz, Morris and Owens",Bakery Both
+,Bangalore,,Lang-Best,Clothing Store Stage
+,Kolkata,,York-Pruitt,Restaurant Education
+,Mumbai,,Whitaker PLC,Bakery Benefit
+,Hyderabad,,"Morris, Barrett and Dixon",Salon Loss
+,Pune,,Moore-Schmidt,Gym Direction
+,Delhi,,Galvan PLC,Florist Claim
+,Pune,,"Lopez, Mcconnell and Ruiz",Restaurant Process
+,Delhi,,Kline Inc,Restaurant Produce
+,Pune,,"Wright, Tucker and Ross",Clothing Store Alone
+,Mumbai,,Duffy Inc,Bakery Always
+,Ahmedabad,,Hudson LLC,Salon Majority
+,Hyderabad,,Hurley and Sons,Florist Letter
+,Hyderabad,,"Smith, Williams and Graham",Bakery Would
+,Pune,,Jones-Harper,Bookstore Order
+,Chennai,,"Young, Baker and Rodriguez",Clothing Store Whether
+,Pune,,Reyes-Arroyo,Bookstore Occur
+,Chennai,,Hernandez-York,Bakery Both
+,Delhi,,"Williams, Santos and Mitchell",Salon Pattern
+,Kolkata,,Irwin Group,Salon Your
+,Delhi,,Estes Group,Gym Hear
+,Chennai,,Walker Inc,Florist Tell
+,Ahmedabad,,Chan-Alexander,Gym Senior
+,Chennai,,"Faulkner, Marshall and Bass",Restaurant Myself
+,Kolkata,,Weaver-Morris,Salon Situation
+,Bangalore,,"Cross, Hughes and Hood",Bookstore Arm
+,Hyderabad,,"Bell, Taylor and Lewis",Bookstore Choice
+,Chennai,,"Gordon, Wright and Cole",Salon Through
+,Mumbai,,"Watson, Hamilton and Hill",Bakery Always
+,Delhi,,"Reynolds, Adams and Ward",Gym Thing
+,Bangalore,,"Woods, Peters and Christian",Bookstore Ready
+,Kolkata,,Austin PLC,Bookstore Draw
+,Hyderabad,,Chavez Group,Cafe Country
+,Hyderabad,,"Rogers, Figueroa and Clark",Florist Several
+,Hyderabad,,Preston-Weaver,Bakery Give
+,Chennai,,"Lee, Donovan and Ewing",Bookstore Choice
+,Hyderabad,,"Duncan, Gates and Garcia",Clothing Store Control
+,Kolkata,,Cowan Ltd,Bakery Its
+,Hyderabad,,Stanley-Dixon,Restaurant Wide
+,Kolkata,,Jones-Cole,Bookstore Tell
+,Ahmedabad,,Cole-Hubbard,Gym Sing
+,Ahmedabad,,"Phillips, Weiss and Atkins",Salon Before
+,Hyderabad,,Rivera-Scott,Florist End
+,Delhi,,"Bryant, Camacho and Bailey",Clothing Store Clear
+,Delhi,,Hoffman LLC,Cafe However
+,Ahmedabad,,Moreno and Sons,Bookstore Quality
+,Pune,,Richardson PLC,Gym Decade
+,Delhi,,Larson Group,Cafe Challenge
+,Ahmedabad,,"Ewing, Charles and Montgomery",Bakery Ok
+,Mumbai,,Bridges-Cook,Clothing Store History
+,Hyderabad,,Hendrix-Garcia,Bookstore Get
+,Pune,,Brown LLC,Gym Response
+,Delhi,,Marquez-Burns,Bakery Exist
+,Chennai,,Church PLC,Bookstore Television
+,Chennai,,"Kirk, Dawson and Hughes",Bakery Maintain
+,Hyderabad,,Nichols-Mason,Salon Police
+,Chennai,,"Martin, Barry and Stone",Cafe Program
+,Delhi,,"Holmes, Chang and Sullivan",Cafe These
+,Ahmedabad,,"Jackson, Hardy and Jones",Bookstore Parent
+,Kolkata,,"Freeman, Holmes and Pierce",Salon Something
+,Chennai,,Zimmerman Inc,Gym Season
+,Mumbai,,Roth-Hurley,Salon Financial
+,Hyderabad,,"Stevens, Miller and Morton",Bakery Ready
+,Bangalore,,"Trevino, Jones and Rivera",Bookstore Occur
+,Hyderabad,,"Burns, Caldwell and Lewis",Bakery Seem
+,Mumbai,,Gray-Walters,Gym Sing
+,Delhi,,"Cooper, Williams and Davis",Clothing Store While
+,Pune,,Williams-Hunter,Cafe Fire
+,Hyderabad,,"Gonzales, Taylor and Campbell",Bakery Serve
+,Mumbai,,"Juarez, Williams and Jenkins",Gym Direction
+,Hyderabad,,"Blair, Richardson and Hobbs",Bookstore Get
+,Bangalore,,Cooper-Ferguson,Florist Focus
+,Bangalore,,"Flores, Foster and Baxter",Bookstore Sense
+,Mumbai,,Leon and Sons,Cafe Sense
+,Hyderabad,,"Vargas, Berry and Fuller",Bookstore Television
+,Hyderabad,,Mcfarland PLC,Clothing Store Reduce
+,Chennai,,Escobar-Moss,Salon Majority
+,Delhi,,"Cook, Meyer and Lawrence",Cafe Country
+,Delhi,,Singleton-Salinas,Cafe Show
+,Hyderabad,,Jones Ltd,Bookstore Player
+,Hyderabad,,Smith Inc,Florist Claim
+,Bangalore,,Hunt and Sons,Restaurant Through
+,Kolkata,,Ellis Inc,Restaurant Know
+,Mumbai,,Dixon PLC,Florist Middle
+,Delhi,,Lam Inc,Salon Whatever
+,Delhi,,Meadows-Porter,Clothing Store Mrs
+,Hyderabad,,Ford Ltd,Salon Pattern
+,Ahmedabad,,Montgomery Group,Bakery To
